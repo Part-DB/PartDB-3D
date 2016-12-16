@@ -1,0 +1,1 @@
+forfiles /m *.wrl /c "cmd /c aopt -i @FILE -x @FNAME.x3d"

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE X3D PUBLIC "ISO//Web3D//DTD X3D 3.0//EN" "http://www.web3d.org/specifications/x3d-3.0.dtd">
+<X3D xmlns:xsd='http://www.w3.org/2001/XMLSchema-instance' profile='Full' version='3.0' xsd:noNamespaceSchemaLocation='http://www.web3d.org/specifications/x3d-3.0.xsd'>
+  <Scene DEF='scene'>
+    <Transform DEF='pin2'>
+      <Shape>
+        <Appearance>
+          <Material DEF='pin' ambientIntensity='0.835556' diffuseColor='0.721569 0.905882 0.878431' emissiveColor='0.721569 0.905882 0.878431' shininess='1' specularColor='0.721569 0.905882 0.878431'/>
+        </Appearance>
+        <IndexedFaceSet normalIndex='0 1 5 4 -1 0 3 2 1 -1 0 4 7 3 -1 1 2 6 5 -1 2 3 7 6 -1 4 5 6 7 -1' colorIndex='0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1' coordIndex='0 1 5 4 -1 0 3 2 1 -1 0 4 7 3 -1 1 2 6 5 -1 2 3 7 6 -1 4 5 6 7 -1'>
+          <Coordinate point='2.545 -1.6 1.31 2.545 1.6 1.31 4.065 1.6 1.31 4.065 -1.6 1.31 2.545 -1.6 0 2.545 1.6 0 4.065 1.6 0 4.065 -1.6 0'/>
+          <Normal vector='-0.57735 -0.57735 0.57735 -0.57735 0.57735 0.57735 0.57735 0.57735 0.57735 0.57735 -0.57735 0.57735 -0.57735 -0.57735 -0.57735 -0.57735 0.57735 -0.57735 0.57735 0.57735 -0.57735 0.57735 -0.57735 -0.57735'/>
+          <Color color='0.498039 0.592157 0.545098 1 1 1'/>
+        </IndexedFaceSet>
+      </Shape>
+    </Transform>
+    <Transform>
+      <Shape>
+        <Appearance>
+          <Material DEF='ring' ambientIntensity='0.6' diffuseColor='1 0.8 0' emissiveColor='1 0.8 0' shininess='1' specularColor='1 0.8 0'/>
+        </Appearance>
+        <IndexedFaceSet normalIndex='0 2 5 4 -1 0 4 6 1 -1 1 6 7 3 -1 2 3 7 5 -1' colorIndex='1 1 1 1 -1 1 1 1 1 -1 1 1 1 1 -1 1 1 1 1 -1' coordIndex='0 2 5 4 -1 0 4 6 1 -1 1 6 7 3 -1 2 3 7 5 -1'>
+          <Coordinate point='3.555 3.11 2.67 3.555 -3.11 2.67 3.555 3.11 0.05 3.555 -3.11 0.05 1.8 3.11 2.67 1.8 3.11 0.05 1.8 -3.11 2.67 1.8 -3.11 0.05'/>
+          <Normal vector='0.57735 0.57735 0.57735 0.57735 -0.57735 0.57735 0.57735 0.57735 -0.57735 0.57735 -0.57735 -0.57735 1.18784e-016 0.707107 0.707107 1.18784e-016 0.707107 -0.707107 -1.18784e-016 -0.707107 0.707107 -1.18784e-016 -0.707107 -0.707107'/>
+          <Color color='0.07451 0.172549 0.294118 1 1 1'/>
+        </IndexedFaceSet>
+      </Shape>
+      <Shape>
+        <Appearance>
+          <Material DEF='body' ambientIntensity='0.464011' diffuseColor='0 0.366667 0.890196' shininess='1' specularColor='0 0.570941 0.88678'/>
+        </Appearance>
+        <IndexedFaceSet normalIndex='0 1 5 4 -1 2 3 7 6 -1 2 6 11 10 -1 2 10 8 3 -1 3 8 9 7 -1 6 7 9 11 -1' colorIndex='0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1' coordIndex='0 1 5 4 -1 2 3 7 6 -1 2 6 11 10 -1 2 10 8 3 -1 3 8 9 7 -1 6 7 9 11 -1'>
+          <Coordinate point='3.555 3.11 2.67 3.555 -3.11 2.67 -3.555 -3.11 2.67 -3.555 3.11 2.67 3.555 3.11 0.05 3.555 -3.11 0.05 -3.555 -3.11 0.05 -3.555 3.11 0.05 1.8 3.11 2.67 1.8 3.11 0.05 1.8 -3.11 2.67 1.8 -3.11 0.05'/>
+          <Normal vector='0.57735 0.57735 0.57735 0.57735 -0.57735 0.57735 -0.57735 -0.57735 0.57735 -0.57735 0.57735 0.57735 0.57735 0.57735 -0.57735 0.57735 -0.57735 -0.57735 -0.57735 -0.57735 -0.57735 -0.57735 0.57735 -0.57735 1.18784e-016 0.707107 0.707107 1.18784e-016 0.707107 -0.707107 -1.18784e-016 -0.707107 0.707107 -1.18784e-016 -0.707107 -0.707107'/>
+          <Color color='0.07451 0.172549 0.294118 1 1 1'/>
+        </IndexedFaceSet>
+      </Shape>
+    </Transform>
+    <Transform DEF='pin1'>
+      <Shape>
+        <Appearance>
+          <Material USE='pin'/>
+        </Appearance>
+        <IndexedFaceSet normalIndex='0 1 5 4 -1 0 3 2 1 -1 0 4 7 3 -1 1 2 6 5 -1 2 3 7 6 -1 4 5 6 7 -1' colorIndex='0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1' coordIndex='0 1 5 4 -1 0 3 2 1 -1 0 4 7 3 -1 1 2 6 5 -1 2 3 7 6 -1 4 5 6 7 -1'>
+          <Coordinate point='-4.065 -1.6 1.31 -4.065 1.6 1.31 -2.545 1.6 1.31 -2.545 -1.6 1.31 -4.065 -1.6 0 -4.065 1.6 0 -2.545 1.6 0 -2.545 -1.6 0'/>
+          <Normal vector='-0.57735 -0.57735 0.57735 -0.57735 0.57735 0.57735 0.57735 0.57735 0.57735 0.57735 -0.57735 0.57735 -0.57735 -0.57735 -0.57735 -0.57735 0.57735 -0.57735 0.57735 0.57735 -0.57735 0.57735 -0.57735 -0.57735'/>
+          <Color color='0.498039 0.592157 0.545098 1 1 1'/>
+        </IndexedFaceSet>
+      </Shape>
+    </Transform>
+  </Scene>
+</X3D>
