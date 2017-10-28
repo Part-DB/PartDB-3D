@@ -1,0 +1,2136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE X3D PUBLIC "ISO//Web3D//DTD X3D 3.0//EN" "http://www.web3d.org/specifications/x3d-3.0.dtd">
+<X3D xmlns:xsd='http://www.w3.org/2001/XMLSchema-instance' profile='Full' version='3.0' xsd:noNamespaceSchemaLocation='http://www.web3d.org/specifications/x3d-3.0.xsd'>
+  <Scene DEF='scene'>
+    <Shape>
+      <Appearance>
+        <Material DEF='PIN-01' ambientIntensity='0.271' diffuseColor='0.824 0.82 0.781' shininess='0.7' specularColor='0.328 0.258 0.172'/>
+      </Appearance>
+    </Shape>
+    <Shape>
+      <Appearance>
+        <Material DEF='PLASTIC-WHITE-01' ambientIntensity='0.494' diffuseColor='0.895 0.891 0.813' shininess='0.25' specularColor='0.047 0.055 0.109'/>
+      </Appearance>
+    </Shape>
+    <Shape>
+      <Appearance>
+        <Material USE='PLASTIC-WHITE-01'/>
+      </Appearance>
+      <IndexedFaceSet creaseAngle='0.5' coordIndex='0 1 2 -1 3 0 2 -1 4 5 6 -1 4 6 7 -1 2 1 7 -1 6 2 7 -1'>
+        <Coordinate point='-0.965 0.197 2.756 -0.965 -1.339 2.756 -0.709 -1.122 2.756 -0.709 0.197 2.756 10.807 0.197 2.756 10.551 0.197 2.756 10.551 -1.122 2.756 10.807 -1.339 2.756'/>
+      </IndexedFaceSet>
+    </Shape>
+    <Shape>
+      <Appearance>
+        <Material USE='PLASTIC-WHITE-01'/>
+      </Appearance>
+      <IndexedFaceSet creaseAngle='0.5' coordIndex='0 1 2 -1 3 0 4 -1 3 1 0 -1'>
+        <Coordinate point='10.472 0.197 2.677 10.807 0.197 1.437 10.472 0.197 1.437 10.807 0.197 2.756 10.551 0.197 2.756'/>
+      </IndexedFaceSet>
+    </Shape>
+    <Shape>
+      <Appearance>
+        <Material USE='PLASTIC-WHITE-01'/>
+      </Appearance>
+      <IndexedFaceSet creaseAngle='0.5' coordIndex='0 1 2 -1 3 1 0 -1'>
+        <Coordinate point='10.551 0.197 2.756 10.472 -1.043 2.677 10.551 -1.122 2.756 10.472 0.197 2.677'/>
+      </IndexedFaceSet>
+    </Shape>
+    <Shape>
+      <Appearance>
+        <Material USE='PLASTIC-WHITE-01'/>
+      </Appearance>
+      <IndexedFaceSet creaseAngle='0.5' coordIndex='0 1 2 -1 1 3 2 -1 4 5 6 -1 6 7 8 -1 7 9 8 -1 9 10 8 -1 10 11 8 -1 11 12 8 -1 12 13 8 -1 13 2 8 -1 2 3 8 -1 4 6 8 -1'>
+        <Coordinate point='10.807 0.197 2.756 10.807 -1.339 2.756 10.807 0.197 1.437 10.807 -1.339 0 10.807 0.925 2.756 10.807 0.591 2.756 10.807 0.591 1.634 10.807 0.584 1.583 10.807 0.925 0 10.807 0.564 1.535 10.807 0.533 1.495 10.807 0.492 1.463 10.807 0.445 1.444 10.807 0.394 1.437'/>
+      </IndexedFaceSet>
+    </Shape>
+    <Shape>
+      <Appearance>
+        <Material USE='PLASTIC-WHITE-01'/>
+      </Appearance>
+      <IndexedFaceSet creaseAngle='0.5' coordIndex='0 1 2 -1 0 2 3 -1'>
+        <Coordinate point='10.472 -1.043 2.677 -0.63 -1.043 2.677 -0.709 -1.122 2.756 10.551 -1.122 2.756'/>
+      </IndexedFaceSet>
+    </Shape>
+    <Shape>
+      <Appearance>
+        <Material USE='PLASTIC-WHITE-01'/>
+      </Appearance>
+      <IndexedFaceSet creaseAngle='0.5' coordIndex='0 1 2 -1 1 3 2 -1 4 0 5 -1 6 7 8 -1 4 5 9 -1 8 7 10 -1 6 8 11 -1 9 5 12 -1 5 13 12 -1 4 9 14 -1 6 11 15 -1 11 16 17 -1 15 11 17 -1 4 14 18 -1 14 19 18 -1 6 15 20 -1 6 20 21 -1 20 22 23 -1 21 20 23 -1 6 21 24 -1 6 24 25 -1 24 26 27 -1 25 24 27 -1 6 25 28 -1 6 28 29 -1 28 30 31 -1 29 28 31 -1 6 29 32 -1 6 32 33 -1 32 34 35 -1 33 32 35 -1 36 37 38 -1 37 39 38 -1 40 41 42 -1 41 43 42 -1 44 45 46 -1 45 47 46 -1 37 36 4 -1 41 40 4 -1 45 44 4 -1 33 37 4 -1 36 41 4 -1 40 45 4 -1 44 1 4 -1 6 33 4 -1 4 1 0 -1'>
+        <Coordinate point='8.563 -1.339 0.394 8.169 -1.339 0.394 8.563 -1.339 0 8.169 -1.339 0 10.807 -1.339 2.756 9.154 -1.339 0.394 -0.965 -1.339 2.756 -0.965 -1.339 0 -0.295 -1.339 0.394 9.547 -1.339 0.394 -0.295 -1.339 0 0.295 -1.339 0.394 9.547 -1.339 0 9.154 -1.339 0 10.138 -1.339 0.394 0.689 -1.339 0.394 0.295 -1.339 0 0.689 -1.339 0 10.807 -1.339 0 10.138 -1.339 0 1.28 -1.339 0.394 1.673 -1.339 0.394 1.28 -1.339 0 1.673 -1.339 0 2.264 -1.339 0.394 2.657 -1.339 0.394 2.264 -1.339 0 2.657 -1.339 0 3.248 -1.339 0.394 3.642 -1.339 0.394 3.248 -1.339 0 3.642 -1.339 0 4.232 -1.339 0.394 4.626 -1.339 0.394 4.232 -1.339 0 4.626 -1.339 0 5.61 -1.339 0.394 5.217 -1.339 0.394 5.61 -1.339 0 5.217 -1.339 0 6.594 -1.339 0.394 6.201 -1.339 0.394 6.594 -1.339 0 6.201 -1.339 0 7.579 -1.339 0.394 7.185 -1.339 0.394 7.579 -1.339 0 7.185 -1.339 0'/>
+      </IndexedFaceSet>
+    </Shape>
+    <Shape>
+      <Appearance>
+        <Material USE='PLASTIC-WHITE-01'/>
+      </Appearance>
+      <IndexedFaceSet creaseAngle='0.5' coordIndex='0 1 2 -1 0 2 3 -1'>
+        <Coordinate point='-0.63 -1.043 2.677 -0.63 0.197 2.677 -0.709 0.197 2.756 -0.709 -1.122 2.756'/>
+      </IndexedFaceSet>
+    </Shape>
+    <Shape>
+      <Appearance>
+        <Material USE='PLASTIC-WHITE-01'/>
+      </Appearance>
+      <IndexedFaceSet creaseAngle='0.5' coordIndex='0 1 2 -1 3 4 5 -1 4 6 7 -1 6 8 7 -1 8 9 7 -1 9 10 7 -1 10 11 7 -1 11 12 7 -1 12 2 7 -1 2 1 7 -1 4 7 13 -1 5 4 13 -1'>
+        <Coordinate point='-0.965 0.591 2.756 -0.965 0.925 2.756 -0.965 0.591 1.634 -0.965 0.197 2.756 -0.965 0.197 1.437 -0.965 -1.339 2.756 -0.965 0.394 1.437 -0.965 0.925 0 -0.965 0.445 1.444 -0.965 0.492 1.463 -0.965 0.533 1.495 -0.965 0.564 1.535 -0.965 0.584 1.583 -0.965 -1.339 0'/>
+      </IndexedFaceSet>
+    </Shape>
+    <Shape>
+      <Appearance>
+        <Material USE='PLASTIC-WHITE-01'/>
+      </Appearance>
+      <IndexedFaceSet creaseAngle='0.5' coordIndex='0 1 2 -1 0 2 3 -1 4 0 3 -1'>
+        <Coordinate point='-0.63 0.197 2.677 -0.63 0.197 1.437 -0.965 0.197 1.437 -0.965 0.197 2.756 -0.709 0.197 2.756'/>
+      </IndexedFaceSet>
+    </Shape>
+    <Shape>
+      <Appearance>
+        <Material USE='PLASTIC-WHITE-01'/>
+      </Appearance>
+      <IndexedFaceSet creaseAngle='0.5' coordIndex='0 1 2 -1 2 1 3 -1 0 2 4 -1 0 4 5 -1 0 5 6 -1 0 6 7 -1 0 7 8 -1 0 8 9 -1 2 3 10 -1 9 11 0 -1'>
+        <Coordinate point='10.472 0.591 0.728 10.472 -1.043 0.728 10.472 0.197 1.437 10.472 -1.043 2.677 10.472 0.394 1.437 10.472 0.445 1.444 10.472 0.492 1.463 10.472 0.533 1.495 10.472 0.564 1.535 10.472 0.584 1.583 10.472 0.197 2.677 10.472 0.591 1.634'/>
+      </IndexedFaceSet>
+    </Shape>
+    <Shape>
+      <Appearance>
+        <Material USE='PLASTIC-WHITE-01'/>
+      </Appearance>
+      <IndexedFaceSet creaseAngle='0.5' coordIndex='0 1 2 -1 3 0 2 -1'>
+        <Coordinate point='10.807 0.394 1.437 10.472 0.394 1.437 10.472 0.197 1.437 10.807 0.197 1.437'/>
+      </IndexedFaceSet>
+    </Shape>
+    <Shape>
+      <Appearance>
+        <Material USE='PLASTIC-WHITE-01'/>
+      </Appearance>
+      <IndexedFaceSet creaseAngle='0.5' coordIndex='0 1 2 -1 0 3 1 -1'>
+        <Coordinate point='10.807 -1.339 0 10.138 0.925 0 10.807 0.925 0 10.138 -1.339 0'/>
+      </IndexedFaceSet>
+    </Shape>
+    <Shape>
+      <Appearance>
+        <Material USE='PLASTIC-WHITE-01'/>
+      </Appearance>
+      <IndexedFaceSet creaseAngle='0.5' coordIndex='0 1 2 -1 3 4 5 -1 6 7 8 -1 9 6 8 -1 10 9 8 -1 11 12 13 -1 14 10 8 -1 15 14 8 -1 5 16 17 -1 18 5 17 -1 13 12 19 -1 15 8 20 -1 13 19 21 -1 8 22 20 -1 23 15 20 -1 24 23 20 -1 25 24 20 -1 19 12 26 -1 27 28 29 -1 30 27 29 -1 18 27 31 -1 3 5 31 -1 5 18 31 -1 27 30 31 -1 31 30 32 -1 31 32 33 -1 32 34 35 -1 33 32 35 -1 36 37 38 -1 37 26 38 -1 26 12 38 -1 31 33 39 -1 40 41 42 -1 43 44 45 -1 44 46 45 -1 46 47 45 -1 47 36 45 -1 36 38 45 -1 48 40 25 -1 45 38 49 -1 40 42 25 -1 50 43 51 -1 43 45 51 -1 50 51 52 -1 51 53 54 -1 31 39 55 -1 52 51 54 -1 39 56 55 -1 25 42 24 -1 50 52 57 -1 50 57 58 -1 3 50 58 -1 39 59 60 -1 57 61 62 -1 56 39 60 -1 58 57 62 -1 3 58 63 -1 3 63 64 -1 63 65 66 -1 64 63 66 -1 3 64 67 -1 3 67 68 -1 67 69 70 -1 68 67 70 -1 55 56 0 -1 3 68 71 -1 55 0 7 -1 3 71 4 -1 6 55 7 -1 71 72 73 -1 4 71 73 -1 7 0 2 -1'>
+        <Coordinate point='0.689 0.925 0.394 0.689 0.925 0 0.295 0.925 0 9.449 0.925 2.756 5.217 0.925 0.394 4.626 0.925 0.394 0.098 0.925 1.22 0.295 0.925 0.394 -0.295 0.925 0.394 0.022 0.925 1.231 -0.049 0.925 1.26 10.039 0.925 2.756 10.807 0.925 2.756 10.039 0.925 2.402 -0.11 0.925 1.307 -0.157 0.925 1.368 4.626 0.925 0 4.232 0.925 0 4.232 0.925 0.394 10.039 0.925 2.205 -0.965 0.925 0 9.941 0.925 2.303 -0.295 0.925 0 -0.187 0.925 1.439 -0.197 0.925 1.516 -0.965 0.925 2.756 10.039 0.925 1.516 3.642 0.925 0.394 3.642 0.925 0 3.248 0.925 0 3.248 0.925 0.394 0.394 0.925 2.756 2.657 0.925 0.394 2.264 0.925 0.394 2.657 0.925 0 2.264 0.925 0 10 0.925 1.368 10.029 0.925 1.439 10.807 0.925 0 1.673 0.925 0.394 -0.197 0.925 2.402 -0.098 0.925 2.303 -0.197 0.925 2.205 9.744 0.925 1.22 9.821 0.925 1.231 10.138 0.925 0.394 9.892 0.925 1.26 9.953 0.925 1.307 -0.197 0.925 2.756 10.138 0.925 0 9.449 0.925 1.22 9.547 0.925 0.394 9.154 0.925 0.394 9.547 0.925 0 9.154 0.925 0 0.394 0.925 1.22 1.28 0.925 0.394 8.563 0.925 0.394 8.169 0.925 0.394 1.673 0.925 0 1.28 0.925 0 8.563 0.925 0 8.169 0.925 0 7.579 0.925 0.394 7.185 0.925 0.394 7.579 0.925 0 7.185 0.925 0 6.594 0.925 0.394 6.201 0.925 0.394 6.594 0.925 0 6.201 0.925 0 5.61 0.925 0.394 5.61 0.925 0 5.217 0.925 0'/>
+      </IndexedFaceSet>
+    </Shape>
+    <Shape>
+      <Appearance>
+        <Material USE='PLASTIC-WHITE-01'/>
+      </Appearance>
+      <IndexedFaceSet creaseAngle='0.5' coordIndex='0 1 2 -1 1 3 2 -1 0 2 4 -1'>
+        <Coordinate point='10.807 0.925 2.756 10.039 0.925 2.756 10.472 0.591 2.756 10.039 0.591 2.756 10.807 0.591 2.756'/>
+      </IndexedFaceSet>
+    </Shape>
+    <Shape>
+      <Appearance>
+        <Material USE='PLASTIC-WHITE-01'/>
+      </Appearance>
+      <IndexedFaceSet creaseAngle='0.5' coordIndex='0 1 2 -1 3 4 5 -1 3 5 6 -1 7 4 8 -1 9 4 10 -1 9 8 4 -1 11 9 10 -1 12 4 7 -1 13 11 10 -1 14 4 12 -1 5 4 14 -1 15 13 10 -1 16 17 18 -1 16 10 17 -1 16 15 10 -1 19 20 15 -1 19 15 16 -1 21 19 16 -1 3 22 23 -1 3 24 22 -1 3 6 24 -1 25 3 23 -1 26 3 25 -1 2 27 28 -1 2 26 27 -1 2 3 26 -1 29 5 30 -1 29 6 5 -1 31 2 28 -1 32 31 33 -1 34 31 32 -1 34 2 31 -1 34 32 35 -1 0 2 34 -1'>
+        <Coordinate point='-0.965 0.591 2.756 -0.965 0.591 1.634 -0.63 0.591 1.634 -0.63 0.591 0.728 10.472 0.591 0.728 9.449 0.591 1.22 0.394 0.591 1.22 9.892 0.591 1.26 9.953 0.591 1.307 10 0.591 1.368 10.472 0.591 1.634 10.029 0.591 1.439 9.821 0.591 1.231 10.039 0.591 1.516 9.744 0.591 1.22 10.039 0.591 2.205 10.472 0.591 2.756 10.807 0.591 1.634 10.807 0.591 2.756 10.039 0.591 2.402 9.941 0.591 2.303 10.039 0.591 2.756 0.022 0.591 1.231 -0.049 0.591 1.26 0.098 0.591 1.22 -0.11 0.591 1.307 -0.157 0.591 1.368 -0.187 0.591 1.439 -0.197 0.591 1.516 0.394 0.591 2.756 9.449 0.591 2.756 -0.197 0.591 2.205 -0.197 0.591 2.402 -0.098 0.591 2.303 -0.63 0.591 2.756 -0.197 0.591 2.756'/>
+      </IndexedFaceSet>
+    </Shape>
+    <Shape>
+      <Appearance>
+        <Material USE='PLASTIC-WHITE-01'/>
+      </Appearance>
+      <IndexedFaceSet creaseAngle='0.5' coordIndex='0 1 2 -1 0 3 1 -1 4 2 5 -1 4 0 2 -1 6 5 7 -1 6 4 5 -1 8 9 10 -1 8 7 9 -1 8 6 7 -1 11 10 12 -1 11 8 10 -1 13 11 12 -1'>
+        <Coordinate point='10.807 0.584 1.583 10.472 0.591 1.634 10.472 0.584 1.583 10.807 0.591 1.634 10.807 0.564 1.535 10.472 0.564 1.535 10.807 0.533 1.495 10.472 0.533 1.495 10.807 0.492 1.463 10.472 0.492 1.463 10.472 0.445 1.444 10.807 0.445 1.444 10.472 0.394 1.437 10.807 0.394 1.437'/>
+      </IndexedFaceSet>
+    </Shape>
+    <Shape>
+      <Appearance>
+        <Material USE='PLASTIC-WHITE-01'/>
+      </Appearance>
+      <IndexedFaceSet creaseAngle='0.5' coordIndex='0 1 2 -1 2 1 3 -1'>
+        <Coordinate point='-0.63 -1.043 0.728 -0.63 -1.043 2.677 10.472 -1.043 0.728 10.472 -1.043 2.677'/>
+      </IndexedFaceSet>
+    </Shape>
+    <Shape>
+      <Appearance>
+        <Material USE='PLASTIC-WHITE-01'/>
+      </Appearance>
+      <IndexedFaceSet creaseAngle='0.5' coordIndex='0 1 2 -1 0 3 1 -1'>
+        <Coordinate point='-0.295 -1.339 0 -0.965 0.925 0 -0.295 0.925 0 -0.965 -1.339 0'/>
+      </IndexedFaceSet>
+    </Shape>
+    <Shape>
+      <Appearance>
+        <Material USE='PLASTIC-WHITE-01'/>
+      </Appearance>
+      <IndexedFaceSet creaseAngle='0.5' coordIndex='0 1 2 -1 3 4 5 -1 2 1 4 -1 3 2 4 -1'>
+        <Coordinate point='-0.295 -1.339 0.394 -0.295 -1.339 0 -0.295 -0.197 0.118 -0.295 0.197 0.118 -0.295 0.925 0 -0.295 0.925 0.394'/>
+      </IndexedFaceSet>
+    </Shape>
+    <Shape>
+      <Appearance>
+        <Material USE='PLASTIC-WHITE-01'/>
+      </Appearance>
+      <IndexedFaceSet creaseAngle='0.5' coordIndex='0 1 2 -1 3 0 2 -1'>
+        <Coordinate point='-0.295 -0.197 0.118 0.295 -0.197 0.118 0.295 -1.339 0.394 -0.295 -1.339 0.394'/>
+      </IndexedFaceSet>
+    </Shape>
+    <Shape>
+      <Appearance>
+        <Material USE='PLASTIC-WHITE-01'/>
+      </Appearance>
+      <IndexedFaceSet creaseAngle='0.5' coordIndex='0 1 2 -1 3 4 5 -1 4 1 0 -1 4 0 5 -1'>
+        <Coordinate point='0.295 -0.197 0.118 0.295 -1.339 0 0.295 -1.339 0.394 0.295 0.925 0.394 0.295 0.925 0 0.295 0.197 0.118'/>
+      </IndexedFaceSet>
+    </Shape>
+    <Shape>
+      <Appearance>
+        <Material USE='PLASTIC-WHITE-01'/>
+      </Appearance>
+      <IndexedFaceSet creaseAngle='0.5' coordIndex='0 1 2 -1 0 3 1 -1'>
+        <Coordinate point='0.689 -1.339 0 0.295 0.925 0 0.689 0.925 0 0.295 -1.339 0'/>
+      </IndexedFaceSet>
+    </Shape>
+    <Shape>
+      <Appearance>
+        <Material USE='PLASTIC-WHITE-01'/>
+      </Appearance>
+      <IndexedFaceSet creaseAngle='0.5' coordIndex='0 1 2 -1 3 4 5 -1 2 1 4 -1 3 2 4 -1'>
+        <Coordinate point='0.689 -1.339 0.394 0.689 -1.339 0 0.689 -0.197 0.118 0.689 0.197 0.118 0.689 0.925 0 0.689 0.925 0.394'/>
+      </IndexedFaceSet>
+    </Shape>
+    <Shape>
+      <Appearance>
+        <Material USE='PLASTIC-WHITE-01'/>
+      </Appearance>
+      <IndexedFaceSet creaseAngle='0.5' coordIndex='0 1 2 -1 3 0 2 -1'>
+        <Coordinate point='0.689 -0.197 0.118 1.28 -0.197 0.118 1.28 -1.339 0.394 0.689 -1.339 0.394'/>
+      </IndexedFaceSet>
+    </Shape>
+    <Shape>
+      <Appearance>
+        <Material USE='PLASTIC-WHITE-01'/>
+      </Appearance>
+      <IndexedFaceSet creaseAngle='0.5' coordIndex='0 1 2 -1 3 4 5 -1 4 1 0 -1 4 0 5 -1'>
+        <Coordinate point='1.28 -0.197 0.118 1.28 -1.339 0 1.28 -1.339 0.394 1.28 0.925 0.394 1.28 0.925 0 1.28 0.197 0.118'/>
+      </IndexedFaceSet>
+    </Shape>
+    <Shape>
+      <Appearance>
+        <Material USE='PLASTIC-WHITE-01'/>
+      </Appearance>
+      <IndexedFaceSet creaseAngle='0.5' coordIndex='0 1 2 -1 0 3 1 -1'>
+        <Coordinate point='1.673 -1.339 0 1.28 0.925 0 1.673 0.925 0 1.28 -1.339 0'/>
+      </IndexedFaceSet>
+    </Shape>
+    <Shape>
+      <Appearance>
+        <Material USE='PLASTIC-WHITE-01'/>
+      </Appearance>
+      <IndexedFaceSet creaseAngle='0.5' coordIndex='0 1 2 -1 3 4 5 -1 2 1 4 -1 3 2 4 -1'>
+        <Coordinate point='1.673 -1.339 0.394 1.673 -1.339 0 1.673 -0.197 0.118 1.673 0.197 0.118 1.673 0.925 0 1.673 0.925 0.394'/>
+      </IndexedFaceSet>
+    </Shape>
+    <Shape>
+      <Appearance>
+        <Material USE='PLASTIC-WHITE-01'/>
+      </Appearance>
+      <IndexedFaceSet creaseAngle='0.5' coordIndex='0 1 2 -1 3 0 2 -1'>
+        <Coordinate point='1.673 -0.197 0.118 2.264 -0.197 0.118 2.264 -1.339 0.394 1.673 -1.339 0.394'/>
+      </IndexedFaceSet>
+    </Shape>
+    <Shape>
+      <Appearance>
+        <Material USE='PLASTIC-WHITE-01'/>
+      </Appearance>
+      <IndexedFaceSet creaseAngle='0.5' coordIndex='0 1 2 -1 3 4 5 -1 4 1 0 -1 4 0 5 -1'>
+        <Coordinate point='2.264 -0.197 0.118 2.264 -1.339 0 2.264 -1.339 0.394 2.264 0.925 0.394 2.264 0.925 0 2.264 0.197 0.118'/>
+      </IndexedFaceSet>
+    </Shape>
+    <Shape>
+      <Appearance>
+        <Material USE='PLASTIC-WHITE-01'/>
+      </Appearance>
+      <IndexedFaceSet creaseAngle='0.5' coordIndex='0 1 2 -1 0 3 1 -1'>
+        <Coordinate point='2.657 -1.339 0 2.264 0.925 0 2.657 0.925 0 2.264 -1.339 0'/>
+      </IndexedFaceSet>
+    </Shape>
+    <Shape>
+      <Appearance>
+        <Material USE='PLASTIC-WHITE-01'/>
+      </Appearance>
+      <IndexedFaceSet creaseAngle='0.5' coordIndex='0 1 2 -1 3 4 5 -1 2 1 4 -1 3 2 4 -1'>
+        <Coordinate point='2.657 -1.339 0.394 2.657 -1.339 0 2.657 -0.197 0.118 2.657 0.197 0.118 2.657 0.925 0 2.657 0.925 0.394'/>
+      </IndexedFaceSet>
+    </Shape>
+    <Shape>
+      <Appearance>
+        <Material USE='PLASTIC-WHITE-01'/>
+      </Appearance>
+      <IndexedFaceSet creaseAngle='0.5' coordIndex='0 1 2 -1 2 1 3 -1'>
+        <Coordinate point='2.657 -0.197 0.118 3.248 -0.197 0.118 2.657 -1.339 0.394 3.248 -1.339 0.394'/>
+      </IndexedFaceSet>
+    </Shape>
+    <Shape>
+      <Appearance>
+        <Material USE='PLASTIC-WHITE-01'/>
+      </Appearance>
+      <IndexedFaceSet creaseAngle='0.5' coordIndex='0 1 2 -1 3 4 5 -1 4 1 0 -1 4 0 5 -1'>
+        <Coordinate point='3.248 -0.197 0.118 3.248 -1.339 0 3.248 -1.339 0.394 3.248 0.925 0.394 3.248 0.925 0 3.248 0.197 0.118'/>
+      </IndexedFaceSet>
+    </Shape>
+    <Shape>
+      <Appearance>
+        <Material USE='PLASTIC-WHITE-01'/>
+      </Appearance>
+      <IndexedFaceSet creaseAngle='0.5' coordIndex='0 1 2 -1 0 3 1 -1'>
+        <Coordinate point='3.642 -1.339 0 3.248 0.925 0 3.642 0.925 0 3.248 -1.339 0'/>
+      </IndexedFaceSet>
+    </Shape>
+    <Shape>
+      <Appearance>
+        <Material USE='PLASTIC-WHITE-01'/>
+      </Appearance>
+      <IndexedFaceSet creaseAngle='0.5' coordIndex='0 1 2 -1 3 4 5 -1 2 1 4 -1 3 2 4 -1'>
+        <Coordinate point='3.642 -1.339 0.394 3.642 -1.339 0 3.642 -0.197 0.118 3.642 0.197 0.118 3.642 0.925 0 3.642 0.925 0.394'/>
+      </IndexedFaceSet>
+    </Shape>
+    <Shape>
+      <Appearance>
+        <Material USE='PLASTIC-WHITE-01'/>
+      </Appearance>
+      <IndexedFaceSet creaseAngle='0.5' coordIndex='0 1 2 -1 3 0 2 -1'>
+        <Coordinate point='3.642 -0.197 0.118 4.232 -0.197 0.118 4.232 -1.339 0.394 3.642 -1.339 0.394'/>
+      </IndexedFaceSet>
+    </Shape>
+    <Shape>
+      <Appearance>
+        <Material USE='PLASTIC-WHITE-01'/>
+      </Appearance>
+      <IndexedFaceSet creaseAngle='0.5' coordIndex='0 1 2 -1 3 4 5 -1 4 1 0 -1 4 0 5 -1'>
+        <Coordinate point='4.232 -0.197 0.118 4.232 -1.339 0 4.232 -1.339 0.394 4.232 0.925 0.394 4.232 0.925 0 4.232 0.197 0.118'/>
+      </IndexedFaceSet>
+    </Shape>
+    <Shape>
+      <Appearance>
+        <Material USE='PLASTIC-WHITE-01'/>
+      </Appearance>
+      <IndexedFaceSet creaseAngle='0.5' coordIndex='0 1 2 -1 0 3 1 -1'>
+        <Coordinate point='4.626 -1.339 0 4.232 0.925 0 4.626 0.925 0 4.232 -1.339 0'/>
+      </IndexedFaceSet>
+    </Shape>
+    <Shape>
+      <Appearance>
+        <Material USE='PLASTIC-WHITE-01'/>
+      </Appearance>
+      <IndexedFaceSet creaseAngle='0.5' coordIndex='0 1 2 -1 3 4 5 -1 2 1 4 -1 3 2 4 -1'>
+        <Coordinate point='4.626 -1.339 0.394 4.626 -1.339 0 4.626 -0.197 0.118 4.626 0.197 0.118 4.626 0.925 0 4.626 0.925 0.394'/>
+      </IndexedFaceSet>
+    </Shape>
+    <Shape>
+      <Appearance>
+        <Material USE='PLASTIC-WHITE-01'/>
+      </Appearance>
+      <IndexedFaceSet creaseAngle='0.5' coordIndex='0 1 2 -1 2 1 3 -1'>
+        <Coordinate point='4.626 -0.197 0.118 5.217 -0.197 0.118 4.626 -1.339 0.394 5.217 -1.339 0.394'/>
+      </IndexedFaceSet>
+    </Shape>
+    <Shape>
+      <Appearance>
+        <Material USE='PLASTIC-WHITE-01'/>
+      </Appearance>
+      <IndexedFaceSet creaseAngle='0.5' coordIndex='0 1 2 -1 3 4 5 -1 4 1 0 -1 4 0 5 -1'>
+        <Coordinate point='5.217 -0.197 0.118 5.217 -1.339 0 5.217 -1.339 0.394 5.217 0.925 0.394 5.217 0.925 0 5.217 0.197 0.118'/>
+      </IndexedFaceSet>
+    </Shape>
+    <Shape>
+      <Appearance>
+        <Material USE='PLASTIC-WHITE-01'/>
+      </Appearance>
+      <IndexedFaceSet creaseAngle='0.5' coordIndex='0 1 2 -1 0 3 1 -1'>
+        <Coordinate point='5.61 -1.339 0 5.217 0.925 0 5.61 0.925 0 5.217 -1.339 0'/>
+      </IndexedFaceSet>
+    </Shape>
+    <Shape>
+      <Appearance>
+        <Material USE='PLASTIC-WHITE-01'/>
+      </Appearance>
+      <IndexedFaceSet creaseAngle='0.5' coordIndex='0 1 2 -1 3 4 5 -1 2 1 4 -1 3 2 4 -1'>
+        <Coordinate point='5.61 -1.339 0.394 5.61 -1.339 0 5.61 -0.197 0.118 5.61 0.197 0.118 5.61 0.925 0 5.61 0.925 0.394'/>
+      </IndexedFaceSet>
+    </Shape>
+    <Shape>
+      <Appearance>
+        <Material USE='PLASTIC-WHITE-01'/>
+      </Appearance>
+      <IndexedFaceSet creaseAngle='0.5' coordIndex='0 1 2 -1 2 1 3 -1'>
+        <Coordinate point='5.61 -0.197 0.118 6.201 -0.197 0.118 5.61 -1.339 0.394 6.201 -1.339 0.394'/>
+      </IndexedFaceSet>
+    </Shape>
+    <Shape>
+      <Appearance>
+        <Material USE='PLASTIC-WHITE-01'/>
+      </Appearance>
+      <IndexedFaceSet creaseAngle='0.5' coordIndex='0 1 2 -1 3 4 5 -1 4 1 0 -1 4 0 5 -1'>
+        <Coordinate point='6.201 -0.197 0.118 6.201 -1.339 0 6.201 -1.339 0.394 6.201 0.925 0.394 6.201 0.925 0 6.201 0.197 0.118'/>
+      </IndexedFaceSet>
+    </Shape>
+    <Shape>
+      <Appearance>
+        <Material USE='PLASTIC-WHITE-01'/>
+      </Appearance>
+      <IndexedFaceSet creaseAngle='0.5' coordIndex='0 1 2 -1 0 3 1 -1'>
+        <Coordinate point='6.594 -1.339 0 6.201 0.925 0 6.594 0.925 0 6.201 -1.339 0'/>
+      </IndexedFaceSet>
+    </Shape>
+    <Shape>
+      <Appearance>
+        <Material USE='PLASTIC-WHITE-01'/>
+      </Appearance>
+      <IndexedFaceSet creaseAngle='0.5' coordIndex='0 1 2 -1 3 4 5 -1 2 1 4 -1 3 2 4 -1'>
+        <Coordinate point='6.594 -1.339 0.394 6.594 -1.339 0 6.594 -0.197 0.118 6.594 0.197 0.118 6.594 0.925 0 6.594 0.925 0.394'/>
+      </IndexedFaceSet>
+    </Shape>
+    <Shape>
+      <Appearance>
+        <Material USE='PLASTIC-WHITE-01'/>
+      </Appearance>
+      <IndexedFaceSet creaseAngle='0.5' coordIndex='0 1 2 -1 3 0 2 -1'>
+        <Coordinate point='6.594 -0.197 0.118 7.185 -0.197 0.118 7.185 -1.339 0.394 6.594 -1.339 0.394'/>
+      </IndexedFaceSet>
+    </Shape>
+    <Shape>
+      <Appearance>
+        <Material USE='PLASTIC-WHITE-01'/>
+      </Appearance>
+      <IndexedFaceSet creaseAngle='0.5' coordIndex='0 1 2 -1 3 4 5 -1 4 1 0 -1 4 0 5 -1'>
+        <Coordinate point='7.185 -0.197 0.118 7.185 -1.339 0 7.185 -1.339 0.394 7.185 0.925 0.394 7.185 0.925 0 7.185 0.197 0.118'/>
+      </IndexedFaceSet>
+    </Shape>
+    <Shape>
+      <Appearance>
+        <Material USE='PLASTIC-WHITE-01'/>
+      </Appearance>
+      <IndexedFaceSet creaseAngle='0.5' coordIndex='0 1 2 -1 0 3 1 -1'>
+        <Coordinate point='7.579 -1.339 0 7.185 0.925 0 7.579 0.925 0 7.185 -1.339 0'/>
+      </IndexedFaceSet>
+    </Shape>
+    <Shape>
+      <Appearance>
+        <Material USE='PLASTIC-WHITE-01'/>
+      </Appearance>
+      <IndexedFaceSet creaseAngle='0.5' coordIndex='0 1 2 -1 3 4 5 -1 2 1 4 -1 3 2 4 -1'>
+        <Coordinate point='7.579 -1.339 0.394 7.579 -1.339 0 7.579 -0.197 0.118 7.579 0.197 0.118 7.579 0.925 0 7.579 0.925 0.394'/>
+      </IndexedFaceSet>
+    </Shape>
+    <Shape>
+      <Appearance>
+        <Material USE='PLASTIC-WHITE-01'/>
+      </Appearance>
+      <IndexedFaceSet creaseAngle='0.5' coordIndex='0 1 2 -1 2 1 3 -1'>
+        <Coordinate point='7.579 -0.197 0.118 8.169 -0.197 0.118 7.579 -1.339 0.394 8.169 -1.339 0.394'/>
+      </IndexedFaceSet>
+    </Shape>
+    <Shape>
+      <Appearance>
+        <Material USE='PLASTIC-WHITE-01'/>
+      </Appearance>
+      <IndexedFaceSet creaseAngle='0.5' coordIndex='0 1 2 -1 3 4 5 -1 4 1 0 -1 4 0 5 -1'>
+        <Coordinate point='8.169 -0.197 0.118 8.169 -1.339 0 8.169 -1.339 0.394 8.169 0.925 0.394 8.169 0.925 0 8.169 0.197 0.118'/>
+      </IndexedFaceSet>
+    </Shape>
+    <Shape>
+      <Appearance>
+        <Material USE='PLASTIC-WHITE-01'/>
+      </Appearance>
+      <IndexedFaceSet creaseAngle='0.5' coordIndex='0 1 2 -1 3 0 2 -1'>
+        <Coordinate point='8.169 -1.339 0 8.169 0.925 0 8.563 0.925 0 8.563 -1.339 0'/>
+      </IndexedFaceSet>
+    </Shape>
+    <Shape>
+      <Appearance>
+        <Material USE='PLASTIC-WHITE-01'/>
+      </Appearance>
+      <IndexedFaceSet creaseAngle='0.5' coordIndex='0 1 2 -1 3 4 5 -1 2 1 4 -1 3 2 4 -1'>
+        <Coordinate point='8.563 -1.339 0.394 8.563 -1.339 0 8.563 -0.197 0.118 8.563 0.197 0.118 8.563 0.925 0 8.563 0.925 0.394'/>
+      </IndexedFaceSet>
+    </Shape>
+    <Shape>
+      <Appearance>
+        <Material USE='PLASTIC-WHITE-01'/>
+      </Appearance>
+      <IndexedFaceSet creaseAngle='0.5' coordIndex='0 1 2 -1 2 1 3 -1'>
+        <Coordinate point='8.563 -0.197 0.118 9.154 -0.197 0.118 8.563 -1.339 0.394 9.154 -1.339 0.394'/>
+      </IndexedFaceSet>
+    </Shape>
+    <Shape>
+      <Appearance>
+        <Material USE='PLASTIC-WHITE-01'/>
+      </Appearance>
+      <IndexedFaceSet creaseAngle='0.5' coordIndex='0 1 2 -1 3 4 5 -1 4 1 0 -1 4 0 5 -1'>
+        <Coordinate point='9.154 -0.197 0.118 9.154 -1.339 0 9.154 -1.339 0.394 9.154 0.925 0.394 9.154 0.925 0 9.154 0.197 0.118'/>
+      </IndexedFaceSet>
+    </Shape>
+    <Shape>
+      <Appearance>
+        <Material USE='PLASTIC-WHITE-01'/>
+      </Appearance>
+      <IndexedFaceSet creaseAngle='0.5' coordIndex='0 1 2 -1 3 0 2 -1'>
+        <Coordinate point='9.154 -1.339 0 9.154 0.925 0 9.547 0.925 0 9.547 -1.339 0'/>
+      </IndexedFaceSet>
+    </Shape>
+    <Shape>
+      <Appearance>
+        <Material USE='PLASTIC-WHITE-01'/>
+      </Appearance>
+      <IndexedFaceSet creaseAngle='0.5' coordIndex='0 1 2 -1 3 4 5 -1 2 1 4 -1 3 2 4 -1'>
+        <Coordinate point='9.547 -1.339 0.394 9.547 -1.339 0 9.547 -0.197 0.118 9.547 0.197 0.118 9.547 0.925 0 9.547 0.925 0.394'/>
+      </IndexedFaceSet>
+    </Shape>
+    <Shape>
+      <Appearance>
+        <Material USE='PLASTIC-WHITE-01'/>
+      </Appearance>
+      <IndexedFaceSet creaseAngle='0.5' coordIndex='0 1 2 -1 3 0 2 -1'>
+        <Coordinate point='9.547 -0.197 0.118 10.138 -0.197 0.118 10.138 -1.339 0.394 9.547 -1.339 0.394'/>
+      </IndexedFaceSet>
+    </Shape>
+    <Shape>
+      <Appearance>
+        <Material USE='PLASTIC-WHITE-01'/>
+      </Appearance>
+      <IndexedFaceSet creaseAngle='0.5' coordIndex='0 1 2 -1 3 4 5 -1 4 1 0 -1 4 0 5 -1'>
+        <Coordinate point='10.138 -0.197 0.118 10.138 -1.339 0 10.138 -1.339 0.394 10.138 0.925 0.394 10.138 0.925 0 10.138 0.197 0.118'/>
+      </IndexedFaceSet>
+    </Shape>
+    <Shape>
+      <Appearance>
+        <Material USE='PLASTIC-WHITE-01'/>
+      </Appearance>
+      <IndexedFaceSet creaseAngle='0.5' coordIndex='0 1 2 -1 1 0 3 -1 2 1 4 -1 1 3 5 -1 1 5 6 -1 1 6 7 -1 1 7 8 -1 7 9 10 -1 8 7 10 -1 4 1 11 -1'>
+        <Coordinate point='-0.63 0.533 1.495 -0.63 0.591 0.728 -0.63 0.564 1.535 -0.63 0.492 1.463 -0.63 0.584 1.583 -0.63 0.445 1.444 -0.63 0.394 1.437 -0.63 0.197 1.437 -0.63 -1.043 0.728 -0.63 0.197 2.677 -0.63 -1.043 2.677 -0.63 0.591 1.634'/>
+      </IndexedFaceSet>
+    </Shape>
+    <Shape>
+      <Appearance>
+        <Material USE='PLASTIC-WHITE-01'/>
+      </Appearance>
+      <IndexedFaceSet creaseAngle='0.5' coordIndex='0 1 2 -1 0 3 1 -1'>
+        <Coordinate point='-0.63 0.197 1.437 -0.965 0.394 1.437 -0.965 0.197 1.437 -0.63 0.394 1.437'/>
+      </IndexedFaceSet>
+    </Shape>
+    <Shape>
+      <Appearance>
+        <Material USE='PLASTIC-WHITE-01'/>
+      </Appearance>
+      <IndexedFaceSet creaseAngle='0.5' coordIndex='0 1 2 -1 0 3 1 -1 4 2 5 -1 4 0 2 -1 6 5 7 -1 6 4 5 -1 8 7 9 -1 8 6 7 -1 10 9 11 -1 10 8 9 -1 12 11 13 -1 12 10 11 -1'>
+        <Coordinate point='-0.63 0.584 1.583 -0.965 0.591 1.634 -0.965 0.584 1.583 -0.63 0.591 1.634 -0.63 0.564 1.535 -0.965 0.564 1.535 -0.63 0.533 1.495 -0.965 0.533 1.495 -0.63 0.492 1.463 -0.965 0.492 1.463 -0.63 0.445 1.444 -0.965 0.445 1.444 -0.63 0.394 1.437 -0.965 0.394 1.437'/>
+      </IndexedFaceSet>
+    </Shape>
+    <Shape>
+      <Appearance>
+        <Material USE='PLASTIC-WHITE-01'/>
+      </Appearance>
+      <IndexedFaceSet creaseAngle='0.5' coordIndex='0 1 2 -1 0 2 3 -1 3 2 4 -1'>
+        <Coordinate point='-0.965 0.925 2.756 -0.965 0.591 2.756 -0.63 0.591 2.756 -0.197 0.925 2.756 -0.197 0.591 2.756'/>
+      </IndexedFaceSet>
+    </Shape>
+    <Shape>
+      <Appearance>
+        <Material USE='PLASTIC-WHITE-01'/>
+      </Appearance>
+      <IndexedFaceSet creaseAngle='0.5' coordIndex='0 1 2 -1 1 3 2 -1'>
+        <Coordinate point='10.472 0.591 0.728 -0.63 0.591 0.728 10.472 -1.043 0.728 -0.63 -1.043 0.728'/>
+      </IndexedFaceSet>
+    </Shape>
+    <Shape>
+      <Appearance>
+        <Material USE='PLASTIC-WHITE-01'/>
+      </Appearance>
+      <IndexedFaceSet creaseAngle='0.5' coordIndex='0 1 2 -1 3 0 2 -1'>
+        <Coordinate point='9.547 0.925 0.394 10.138 0.925 0.394 10.138 0.197 0.118 9.547 0.197 0.118'/>
+      </IndexedFaceSet>
+    </Shape>
+    <Shape>
+      <Appearance>
+        <Material USE='PLASTIC-WHITE-01'/>
+      </Appearance>
+      <IndexedFaceSet creaseAngle='0.5' coordIndex='0 1 2 -1 3 0 2 -1'>
+        <Coordinate point='8.563 0.925 0.394 9.154 0.925 0.394 9.154 0.197 0.118 8.563 0.197 0.118'/>
+      </IndexedFaceSet>
+    </Shape>
+    <Shape>
+      <Appearance>
+        <Material USE='PLASTIC-WHITE-01'/>
+      </Appearance>
+      <IndexedFaceSet creaseAngle='0.5' coordIndex='0 1 2 -1 3 0 2 -1'>
+        <Coordinate point='7.579 0.925 0.394 8.169 0.925 0.394 8.169 0.197 0.118 7.579 0.197 0.118'/>
+      </IndexedFaceSet>
+    </Shape>
+    <Shape>
+      <Appearance>
+        <Material USE='PLASTIC-WHITE-01'/>
+      </Appearance>
+      <IndexedFaceSet creaseAngle='0.5' coordIndex='0 1 2 -1 3 0 2 -1'>
+        <Coordinate point='6.594 0.925 0.394 7.185 0.925 0.394 7.185 0.197 0.118 6.594 0.197 0.118'/>
+      </IndexedFaceSet>
+    </Shape>
+    <Shape>
+      <Appearance>
+        <Material USE='PLASTIC-WHITE-01'/>
+      </Appearance>
+      <IndexedFaceSet creaseAngle='0.5' coordIndex='0 1 2 -1 3 0 2 -1'>
+        <Coordinate point='5.61 0.925 0.394 6.201 0.925 0.394 6.201 0.197 0.118 5.61 0.197 0.118'/>
+      </IndexedFaceSet>
+    </Shape>
+    <Shape>
+      <Appearance>
+        <Material USE='PLASTIC-WHITE-01'/>
+      </Appearance>
+      <IndexedFaceSet creaseAngle='0.5' coordIndex='0 1 2 -1 3 0 2 -1'>
+        <Coordinate point='4.626 0.925 0.394 5.217 0.925 0.394 5.217 0.197 0.118 4.626 0.197 0.118'/>
+      </IndexedFaceSet>
+    </Shape>
+    <Shape>
+      <Appearance>
+        <Material USE='PLASTIC-WHITE-01'/>
+      </Appearance>
+      <IndexedFaceSet creaseAngle='0.5' coordIndex='0 1 2 -1 3 0 2 -1'>
+        <Coordinate point='3.642 0.925 0.394 4.232 0.925 0.394 4.232 0.197 0.118 3.642 0.197 0.118'/>
+      </IndexedFaceSet>
+    </Shape>
+    <Shape>
+      <Appearance>
+        <Material USE='PLASTIC-WHITE-01'/>
+      </Appearance>
+      <IndexedFaceSet creaseAngle='0.5' coordIndex='0 1 2 -1 3 0 2 -1'>
+        <Coordinate point='2.657 0.925 0.394 3.248 0.925 0.394 3.248 0.197 0.118 2.657 0.197 0.118'/>
+      </IndexedFaceSet>
+    </Shape>
+    <Shape>
+      <Appearance>
+        <Material USE='PLASTIC-WHITE-01'/>
+      </Appearance>
+      <IndexedFaceSet creaseAngle='0.5' coordIndex='0 1 2 -1 3 0 2 -1'>
+        <Coordinate point='1.673 0.925 0.394 2.264 0.925 0.394 2.264 0.197 0.118 1.673 0.197 0.118'/>
+      </IndexedFaceSet>
+    </Shape>
+    <Shape>
+      <Appearance>
+        <Material USE='PLASTIC-WHITE-01'/>
+      </Appearance>
+      <IndexedFaceSet creaseAngle='0.5' coordIndex='0 1 2 -1 3 0 2 -1'>
+        <Coordinate point='0.689 0.925 0.394 1.28 0.925 0.394 1.28 0.197 0.118 0.689 0.197 0.118'/>
+      </IndexedFaceSet>
+    </Shape>
+    <Shape>
+      <Appearance>
+        <Material USE='PLASTIC-WHITE-01'/>
+      </Appearance>
+      <IndexedFaceSet creaseAngle='0.5' coordIndex='0 1 2 -1 2 1 3 -1'>
+        <Coordinate point='-0.295 0.925 0.394 0.295 0.925 0.394 -0.295 0.197 0.118 0.295 0.197 0.118'/>
+      </IndexedFaceSet>
+    </Shape>
+    <Shape>
+      <Appearance>
+        <Material USE='PLASTIC-WHITE-01'/>
+      </Appearance>
+      <IndexedFaceSet creaseAngle='0.5' coordIndex='0 1 2 -1 2 1 3 -1'>
+        <Coordinate point='-0.197 0.591 2.402 -0.197 0.925 2.402 -0.197 0.591 2.756 -0.197 0.925 2.756'/>
+      </IndexedFaceSet>
+    </Shape>
+    <Shape>
+      <Appearance>
+        <Material USE='PLASTIC-WHITE-01'/>
+      </Appearance>
+      <IndexedFaceSet creaseAngle='0.5' coordIndex='0 1 2 -1 1 3 2 -1'>
+        <Coordinate point='-0.197 0.591 2.402 -0.098 0.591 2.303 -0.197 0.925 2.402 -0.098 0.925 2.303'/>
+      </IndexedFaceSet>
+    </Shape>
+    <Shape>
+      <Appearance>
+        <Material USE='PLASTIC-WHITE-01'/>
+      </Appearance>
+      <IndexedFaceSet creaseAngle='0.5' coordIndex='0 1 2 -1 1 3 2 -1'>
+        <Coordinate point='-0.098 0.591 2.303 -0.197 0.591 2.205 -0.098 0.925 2.303 -0.197 0.925 2.205'/>
+      </IndexedFaceSet>
+    </Shape>
+    <Shape>
+      <Appearance>
+        <Material USE='PLASTIC-WHITE-01'/>
+      </Appearance>
+      <IndexedFaceSet creaseAngle='0.5' coordIndex='0 1 2 -1 2 1 3 -1'>
+        <Coordinate point='-0.197 0.591 1.516 -0.197 0.925 1.516 -0.197 0.591 2.205 -0.197 0.925 2.205'/>
+      </IndexedFaceSet>
+    </Shape>
+    <Shape>
+      <Appearance>
+        <Material USE='PLASTIC-WHITE-01'/>
+      </Appearance>
+      <IndexedFaceSet creaseAngle='0.5' coordIndex='0 1 2 -1 3 2 4 -1 3 0 2 -1 5 4 6 -1 5 3 4 -1 7 6 8 -1 7 5 6 -1 9 7 8 -1 10 8 11 -1 10 11 12 -1 10 9 8 -1 13 10 12 -1'>
+        <Coordinate point='0.098 0.591 1.22 0.098 0.925 1.22 0.022 0.925 1.231 0.022 0.591 1.231 -0.049 0.925 1.26 -0.049 0.591 1.26 -0.11 0.925 1.307 -0.11 0.591 1.307 -0.157 0.925 1.368 -0.157 0.591 1.368 -0.187 0.591 1.439 -0.187 0.925 1.439 -0.197 0.925 1.516 -0.197 0.591 1.516'/>
+      </IndexedFaceSet>
+    </Shape>
+    <Shape>
+      <Appearance>
+        <Material USE='PLASTIC-WHITE-01'/>
+      </Appearance>
+      <IndexedFaceSet creaseAngle='0.5' coordIndex='0 1 2 -1 1 3 2 -1'>
+        <Coordinate point='0.098 0.591 1.22 0.394 0.591 1.22 0.098 0.925 1.22 0.394 0.925 1.22'/>
+      </IndexedFaceSet>
+    </Shape>
+    <Shape>
+      <Appearance>
+        <Material USE='PLASTIC-WHITE-01'/>
+      </Appearance>
+      <IndexedFaceSet creaseAngle='0.5' coordIndex='0 1 2 -1 1 3 2 -1'>
+        <Coordinate point='0.394 0.591 1.22 0.394 0.591 2.756 0.394 0.925 1.22 0.394 0.925 2.756'/>
+      </IndexedFaceSet>
+    </Shape>
+    <Shape>
+      <Appearance>
+        <Material USE='PLASTIC-WHITE-01'/>
+      </Appearance>
+      <IndexedFaceSet creaseAngle='0.5' coordIndex='0 1 2 -1 1 3 2 -1'>
+        <Coordinate point='9.449 0.925 2.756 0.394 0.925 2.756 9.449 0.591 2.756 0.394 0.591 2.756'/>
+      </IndexedFaceSet>
+    </Shape>
+    <Shape>
+      <Appearance>
+        <Material USE='PLASTIC-WHITE-01'/>
+      </Appearance>
+      <IndexedFaceSet creaseAngle='0.5' coordIndex='0 1 2 -1 0 3 1 -1'>
+        <Coordinate point='9.449 0.925 1.22 9.449 0.591 2.756 9.449 0.591 1.22 9.449 0.925 2.756'/>
+      </IndexedFaceSet>
+    </Shape>
+    <Shape>
+      <Appearance>
+        <Material USE='PLASTIC-WHITE-01'/>
+      </Appearance>
+      <IndexedFaceSet creaseAngle='0.5' coordIndex='0 1 2 -1 0 3 1 -1'>
+        <Coordinate point='9.744 0.925 1.22 9.449 0.591 1.22 9.744 0.591 1.22 9.449 0.925 1.22'/>
+      </IndexedFaceSet>
+    </Shape>
+    <Shape>
+      <Appearance>
+        <Material USE='PLASTIC-WHITE-01'/>
+      </Appearance>
+      <IndexedFaceSet creaseAngle='0.5' coordIndex='0 1 2 -1 3 0 2 -1 4 3 5 -1 3 2 5 -1 6 4 7 -1 4 5 7 -1 8 6 9 -1 6 7 9 -1 10 8 11 -1 8 9 11 -1 12 10 13 -1 10 11 13 -1'>
+        <Coordinate point='9.744 0.925 1.22 9.744 0.591 1.22 9.821 0.591 1.231 9.821 0.925 1.231 9.892 0.925 1.26 9.892 0.591 1.26 9.953 0.925 1.307 9.953 0.591 1.307 10 0.925 1.368 10 0.591 1.368 10.029 0.925 1.439 10.029 0.591 1.439 10.039 0.925 1.516 10.039 0.591 1.516'/>
+      </IndexedFaceSet>
+    </Shape>
+    <Shape>
+      <Appearance>
+        <Material USE='PLASTIC-WHITE-01'/>
+      </Appearance>
+      <IndexedFaceSet creaseAngle='0.5' coordIndex='0 1 2 -1 3 1 0 -1'>
+        <Coordinate point='10.039 0.591 2.205 10.039 0.925 1.516 10.039 0.591 1.516 10.039 0.925 2.205'/>
+      </IndexedFaceSet>
+    </Shape>
+    <Shape>
+      <Appearance>
+        <Material USE='PLASTIC-WHITE-01'/>
+      </Appearance>
+      <IndexedFaceSet creaseAngle='0.5' coordIndex='0 1 2 -1 0 3 1 -1'>
+        <Coordinate point='9.941 0.925 2.303 10.039 0.591 2.205 9.941 0.591 2.303 10.039 0.925 2.205'/>
+      </IndexedFaceSet>
+    </Shape>
+    <Shape>
+      <Appearance>
+        <Material USE='PLASTIC-WHITE-01'/>
+      </Appearance>
+      <IndexedFaceSet creaseAngle='0.5' coordIndex='0 1 2 -1 0 3 1 -1'>
+        <Coordinate point='10.039 0.925 2.402 9.941 0.591 2.303 10.039 0.591 2.402 9.941 0.925 2.303'/>
+      </IndexedFaceSet>
+    </Shape>
+    <Shape>
+      <Appearance>
+        <Material USE='PLASTIC-WHITE-01'/>
+      </Appearance>
+      <IndexedFaceSet creaseAngle='0.5' coordIndex='0 1 2 -1 3 1 0 -1'>
+        <Coordinate point='10.039 0.591 2.756 10.039 0.925 2.402 10.039 0.591 2.402 10.039 0.925 2.756'/>
+      </IndexedFaceSet>
+    </Shape>
+    <Shape>
+      <Appearance>
+        <Material USE='PLASTIC-WHITE-01'/>
+      </Appearance>
+      <IndexedFaceSet creaseAngle='0.5' coordIndex='0 1 2 -1 3 0 2 -1'>
+        <Coordinate point='-0.295 0.197 0.118 0.295 0.197 0.118 0.295 -0.197 0.118 -0.295 -0.197 0.118'/>
+      </IndexedFaceSet>
+    </Shape>
+    <Shape>
+      <Appearance>
+        <Material USE='PLASTIC-WHITE-01'/>
+      </Appearance>
+      <IndexedFaceSet creaseAngle='0.5' coordIndex='0 1 2 -1 3 0 2 -1'>
+        <Coordinate point='0.689 0.197 0.118 1.28 0.197 0.118 1.28 -0.197 0.118 0.689 -0.197 0.118'/>
+      </IndexedFaceSet>
+    </Shape>
+    <Shape>
+      <Appearance>
+        <Material USE='PLASTIC-WHITE-01'/>
+      </Appearance>
+      <IndexedFaceSet creaseAngle='0.5' coordIndex='0 1 2 -1 0 2 3 -1'>
+        <Coordinate point='1.673 -0.197 0.118 1.673 0.197 0.118 2.264 0.197 0.118 2.264 -0.197 0.118'/>
+      </IndexedFaceSet>
+    </Shape>
+    <Shape>
+      <Appearance>
+        <Material USE='PLASTIC-WHITE-01'/>
+      </Appearance>
+      <IndexedFaceSet creaseAngle='0.5' coordIndex='0 1 2 -1 0 2 3 -1'>
+        <Coordinate point='2.657 -0.197 0.118 2.657 0.197 0.118 3.248 0.197 0.118 3.248 -0.197 0.118'/>
+      </IndexedFaceSet>
+    </Shape>
+    <Shape>
+      <Appearance>
+        <Material USE='PLASTIC-WHITE-01'/>
+      </Appearance>
+      <IndexedFaceSet creaseAngle='0.5' coordIndex='0 1 2 -1 0 2 3 -1'>
+        <Coordinate point='3.642 -0.197 0.118 3.642 0.197 0.118 4.232 0.197 0.118 4.232 -0.197 0.118'/>
+      </IndexedFaceSet>
+    </Shape>
+    <Shape>
+      <Appearance>
+        <Material USE='PLASTIC-WHITE-01'/>
+      </Appearance>
+      <IndexedFaceSet creaseAngle='0.5' coordIndex='0 1 2 -1 0 2 3 -1'>
+        <Coordinate point='4.626 -0.197 0.118 4.626 0.197 0.118 5.217 0.197 0.118 5.217 -0.197 0.118'/>
+      </IndexedFaceSet>
+    </Shape>
+    <Shape>
+      <Appearance>
+        <Material USE='PLASTIC-WHITE-01'/>
+      </Appearance>
+      <IndexedFaceSet creaseAngle='0.5' coordIndex='0 1 2 -1 0 2 3 -1'>
+        <Coordinate point='5.61 -0.197 0.118 5.61 0.197 0.118 6.201 0.197 0.118 6.201 -0.197 0.118'/>
+      </IndexedFaceSet>
+    </Shape>
+    <Shape>
+      <Appearance>
+        <Material USE='PLASTIC-WHITE-01'/>
+      </Appearance>
+      <IndexedFaceSet creaseAngle='0.5' coordIndex='0 1 2 -1 0 2 3 -1'>
+        <Coordinate point='6.594 -0.197 0.118 6.594 0.197 0.118 7.185 0.197 0.118 7.185 -0.197 0.118'/>
+      </IndexedFaceSet>
+    </Shape>
+    <Shape>
+      <Appearance>
+        <Material USE='PLASTIC-WHITE-01'/>
+      </Appearance>
+      <IndexedFaceSet creaseAngle='0.5' coordIndex='0 1 2 -1 0 2 3 -1'>
+        <Coordinate point='7.579 -0.197 0.118 7.579 0.197 0.118 8.169 0.197 0.118 8.169 -0.197 0.118'/>
+      </IndexedFaceSet>
+    </Shape>
+    <Shape>
+      <Appearance>
+        <Material USE='PLASTIC-WHITE-01'/>
+      </Appearance>
+      <IndexedFaceSet creaseAngle='0.5' coordIndex='0 1 2 -1 0 2 3 -1'>
+        <Coordinate point='8.563 -0.197 0.118 8.563 0.197 0.118 9.154 0.197 0.118 9.154 -0.197 0.118'/>
+      </IndexedFaceSet>
+    </Shape>
+    <Shape>
+      <Appearance>
+        <Material USE='PLASTIC-WHITE-01'/>
+      </Appearance>
+      <IndexedFaceSet creaseAngle='0.5' coordIndex='0 1 2 -1 0 2 3 -1'>
+        <Coordinate point='9.547 -0.197 0.118 9.547 0.197 0.118 10.138 0.197 0.118 10.138 -0.197 0.118'/>
+      </IndexedFaceSet>
+    </Shape>
+    <Shape>
+      <Appearance>
+        <Material USE='PIN-01'/>
+      </Appearance>
+      <IndexedFaceSet creaseAngle='0.5' coordIndex='0 1 2 -1 1 3 2 -1'>
+        <Coordinate point='3.89 -0.047 -1.339 3.89 0.047 -1.339 3.984 -0.047 -1.339 3.984 0.047 -1.339'/>
+      </IndexedFaceSet>
+    </Shape>
+    <Shape>
+      <Appearance>
+        <Material USE='PIN-01'/>
+      </Appearance>
+      <IndexedFaceSet creaseAngle='0.5' coordIndex='0 1 2 -1 3 0 2 -1'>
+        <Coordinate point='3.984 -0.047 -1.339 4.063 -0.126 -1.26 3.811 -0.126 -1.26 3.89 -0.047 -1.339'/>
+      </IndexedFaceSet>
+    </Shape>
+    <Shape>
+      <Appearance>
+        <Material USE='PIN-01'/>
+      </Appearance>
+      <IndexedFaceSet creaseAngle='0.5' coordIndex='0 1 2 -1 3 0 2 -1'>
+        <Coordinate point='3.984 0.047 -1.339 4.063 0.126 -1.26 4.063 -0.126 -1.26 3.984 -0.047 -1.339'/>
+      </IndexedFaceSet>
+    </Shape>
+    <Shape>
+      <Appearance>
+        <Material USE='PIN-01'/>
+      </Appearance>
+      <IndexedFaceSet creaseAngle='0.5' coordIndex='0 1 2 -1 3 1 0 -1'>
+        <Coordinate point='3.89 -0.047 -1.339 3.811 0.126 -1.26 3.89 0.047 -1.339 3.811 -0.126 -1.26'/>
+      </IndexedFaceSet>
+    </Shape>
+    <Shape>
+      <Appearance>
+        <Material USE='PIN-01'/>
+      </Appearance>
+      <IndexedFaceSet creaseAngle='0.5' coordIndex='0 1 2 -1 0 2 3 -1'>
+        <Coordinate point='3.811 0.126 -1.26 4.063 0.126 -1.26 3.984 0.047 -1.339 3.89 0.047 -1.339'/>
+      </IndexedFaceSet>
+    </Shape>
+    <Shape>
+      <Appearance>
+        <Material USE='PIN-01'/>
+      </Appearance>
+      <IndexedFaceSet creaseAngle='0.5' coordIndex='0 1 2 -1 3 0 2 -1'>
+        <Coordinate point='3.811 -0.126 -1.26 4.063 -0.126 -1.26 4.063 -0.126 2.48 3.811 -0.126 2.48'/>
+      </IndexedFaceSet>
+    </Shape>
+    <Shape>
+      <Appearance>
+        <Material USE='PIN-01'/>
+      </Appearance>
+      <IndexedFaceSet creaseAngle='0.5' coordIndex='0 1 2 -1 0 3 1 -1'>
+        <Coordinate point='4.063 0.126 -1.26 4.063 -0.126 2.48 4.063 -0.126 -1.26 4.063 0.126 2.48'/>
+      </IndexedFaceSet>
+    </Shape>
+    <Shape>
+      <Appearance>
+        <Material USE='PIN-01'/>
+      </Appearance>
+      <IndexedFaceSet creaseAngle='0.5' coordIndex='0 1 2 -1 1 3 2 -1'>
+        <Coordinate point='3.811 -0.126 -1.26 3.811 -0.126 2.48 3.811 0.126 -1.26 3.811 0.126 2.48'/>
+      </IndexedFaceSet>
+    </Shape>
+    <Shape>
+      <Appearance>
+        <Material USE='PIN-01'/>
+      </Appearance>
+      <IndexedFaceSet creaseAngle='0.5' coordIndex='0 1 2 -1 2 1 3 -1'>
+        <Coordinate point='3.811 0.126 2.48 4.063 0.126 2.48 3.811 0.126 -1.26 4.063 0.126 -1.26'/>
+      </IndexedFaceSet>
+    </Shape>
+    <Shape>
+      <Appearance>
+        <Material USE='PIN-01'/>
+      </Appearance>
+      <IndexedFaceSet creaseAngle='0.5' coordIndex='0 1 2 -1 2 1 3 -1'>
+        <Coordinate point='4.063 -0.126 2.48 3.984 -0.047 2.559 3.811 -0.126 2.48 3.89 -0.047 2.559'/>
+      </IndexedFaceSet>
+    </Shape>
+    <Shape>
+      <Appearance>
+        <Material USE='PIN-01'/>
+      </Appearance>
+      <IndexedFaceSet creaseAngle='0.5' coordIndex='0 1 2 -1 3 0 2 -1'>
+        <Coordinate point='3.984 -0.047 2.559 4.063 -0.126 2.48 4.063 0.126 2.48 3.984 0.047 2.559'/>
+      </IndexedFaceSet>
+    </Shape>
+    <Shape>
+      <Appearance>
+        <Material USE='PIN-01'/>
+      </Appearance>
+      <IndexedFaceSet creaseAngle='0.5' coordIndex='0 1 2 -1 0 2 3 -1'>
+        <Coordinate point='3.811 0.126 2.48 3.811 -0.126 2.48 3.89 -0.047 2.559 3.89 0.047 2.559'/>
+      </IndexedFaceSet>
+    </Shape>
+    <Shape>
+      <Appearance>
+        <Material USE='PIN-01'/>
+      </Appearance>
+      <IndexedFaceSet creaseAngle='0.5' coordIndex='0 1 2 -1 3 0 2 -1'>
+        <Coordinate point='3.984 0.047 2.559 4.063 0.126 2.48 3.811 0.126 2.48 3.89 0.047 2.559'/>
+      </IndexedFaceSet>
+    </Shape>
+    <Shape>
+      <Appearance>
+        <Material USE='PIN-01'/>
+      </Appearance>
+      <IndexedFaceSet creaseAngle='0.5' coordIndex='0 1 2 -1 3 0 2 -1'>
+        <Coordinate point='3.89 -0.047 2.559 3.984 -0.047 2.559 3.984 0.047 2.559 3.89 0.047 2.559'/>
+      </IndexedFaceSet>
+    </Shape>
+    <Shape>
+      <Appearance>
+        <Material USE='PIN-01'/>
+      </Appearance>
+      <IndexedFaceSet creaseAngle='0.5' coordIndex='0 1 2 -1 1 3 2 -1'>
+        <Coordinate point='2.906 -0.047 -1.339 2.906 0.047 -1.339 3 -0.047 -1.339 3 0.047 -1.339'/>
+      </IndexedFaceSet>
+    </Shape>
+    <Shape>
+      <Appearance>
+        <Material USE='PIN-01'/>
+      </Appearance>
+      <IndexedFaceSet creaseAngle='0.5' coordIndex='0 1 2 -1 3 0 2 -1'>
+        <Coordinate point='3 -0.047 -1.339 3.079 -0.126 -1.26 2.827 -0.126 -1.26 2.906 -0.047 -1.339'/>
+      </IndexedFaceSet>
+    </Shape>
+    <Shape>
+      <Appearance>
+        <Material USE='PIN-01'/>
+      </Appearance>
+      <IndexedFaceSet creaseAngle='0.5' coordIndex='0 1 2 -1 2 1 3 -1'>
+        <Coordinate point='3 0.047 -1.339 3.079 0.126 -1.26 3 -0.047 -1.339 3.079 -0.126 -1.26'/>
+      </IndexedFaceSet>
+    </Shape>
+    <Shape>
+      <Appearance>
+        <Material USE='PIN-01'/>
+      </Appearance>
+      <IndexedFaceSet creaseAngle='0.5' coordIndex='0 1 2 -1 3 1 0 -1'>
+        <Coordinate point='2.906 -0.047 -1.339 2.827 0.126 -1.26 2.906 0.047 -1.339 2.827 -0.126 -1.26'/>
+      </IndexedFaceSet>
+    </Shape>
+    <Shape>
+      <Appearance>
+        <Material USE='PIN-01'/>
+      </Appearance>
+      <IndexedFaceSet creaseAngle='0.5' coordIndex='0 1 2 -1 0 2 3 -1'>
+        <Coordinate point='2.827 0.126 -1.26 3.079 0.126 -1.26 3 0.047 -1.339 2.906 0.047 -1.339'/>
+      </IndexedFaceSet>
+    </Shape>
+    <Shape>
+      <Appearance>
+        <Material USE='PIN-01'/>
+      </Appearance>
+      <IndexedFaceSet creaseAngle='0.5' coordIndex='0 1 2 -1 3 0 2 -1'>
+        <Coordinate point='2.827 -0.126 -1.26 3.079 -0.126 -1.26 3.079 -0.126 2.48 2.827 -0.126 2.48'/>
+      </IndexedFaceSet>
+    </Shape>
+    <Shape>
+      <Appearance>
+        <Material USE='PIN-01'/>
+      </Appearance>
+      <IndexedFaceSet creaseAngle='0.5' coordIndex='0 1 2 -1 0 3 1 -1'>
+        <Coordinate point='3.079 0.126 -1.26 3.079 -0.126 2.48 3.079 -0.126 -1.26 3.079 0.126 2.48'/>
+      </IndexedFaceSet>
+    </Shape>
+    <Shape>
+      <Appearance>
+        <Material USE='PIN-01'/>
+      </Appearance>
+      <IndexedFaceSet creaseAngle='0.5' coordIndex='0 1 2 -1 1 3 2 -1'>
+        <Coordinate point='2.827 -0.126 -1.26 2.827 -0.126 2.48 2.827 0.126 -1.26 2.827 0.126 2.48'/>
+      </IndexedFaceSet>
+    </Shape>
+    <Shape>
+      <Appearance>
+        <Material USE='PIN-01'/>
+      </Appearance>
+      <IndexedFaceSet creaseAngle='0.5' coordIndex='0 1 2 -1 2 1 3 -1'>
+        <Coordinate point='2.827 0.126 2.48 3.079 0.126 2.48 2.827 0.126 -1.26 3.079 0.126 -1.26'/>
+      </IndexedFaceSet>
+    </Shape>
+    <Shape>
+      <Appearance>
+        <Material USE='PIN-01'/>
+      </Appearance>
+      <IndexedFaceSet creaseAngle='0.5' coordIndex='0 1 2 -1 2 1 3 -1'>
+        <Coordinate point='3.079 -0.126 2.48 3 -0.047 2.559 2.827 -0.126 2.48 2.906 -0.047 2.559'/>
+      </IndexedFaceSet>
+    </Shape>
+    <Shape>
+      <Appearance>
+        <Material USE='PIN-01'/>
+      </Appearance>
+      <IndexedFaceSet creaseAngle='0.5' coordIndex='0 1 2 -1 3 0 2 -1'>
+        <Coordinate point='3 -0.047 2.559 3.079 -0.126 2.48 3.079 0.126 2.48 3 0.047 2.559'/>
+      </IndexedFaceSet>
+    </Shape>
+    <Shape>
+      <Appearance>
+        <Material USE='PIN-01'/>
+      </Appearance>
+      <IndexedFaceSet creaseAngle='0.5' coordIndex='0 1 2 -1 0 2 3 -1'>
+        <Coordinate point='2.827 0.126 2.48 2.827 -0.126 2.48 2.906 -0.047 2.559 2.906 0.047 2.559'/>
+      </IndexedFaceSet>
+    </Shape>
+    <Shape>
+      <Appearance>
+        <Material USE='PIN-01'/>
+      </Appearance>
+      <IndexedFaceSet creaseAngle='0.5' coordIndex='0 1 2 -1 3 0 2 -1'>
+        <Coordinate point='3 0.047 2.559 3.079 0.126 2.48 2.827 0.126 2.48 2.906 0.047 2.559'/>
+      </IndexedFaceSet>
+    </Shape>
+    <Shape>
+      <Appearance>
+        <Material USE='PIN-01'/>
+      </Appearance>
+      <IndexedFaceSet creaseAngle='0.5' coordIndex='0 1 2 -1 3 0 2 -1'>
+        <Coordinate point='2.906 -0.047 2.559 3 -0.047 2.559 3 0.047 2.559 2.906 0.047 2.559'/>
+      </IndexedFaceSet>
+    </Shape>
+    <Shape>
+      <Appearance>
+        <Material USE='PIN-01'/>
+      </Appearance>
+      <IndexedFaceSet creaseAngle='0.5' coordIndex='0 1 2 -1 0 2 3 -1'>
+        <Coordinate point='9.795 -0.047 -1.339 9.795 0.047 -1.339 9.89 0.047 -1.339 9.89 -0.047 -1.339'/>
+      </IndexedFaceSet>
+    </Shape>
+    <Shape>
+      <Appearance>
+        <Material USE='PIN-01'/>
+      </Appearance>
+      <IndexedFaceSet creaseAngle='0.5' coordIndex='0 1 2 -1 0 2 3 -1'>
+        <Coordinate point='9.717 0.138 -1.261 9.968 0.138 -1.261 9.89 0.047 -1.339 9.795 0.047 -1.339'/>
+      </IndexedFaceSet>
+    </Shape>
+    <Shape>
+      <Appearance>
+        <Material USE='PIN-01'/>
+      </Appearance>
+      <IndexedFaceSet creaseAngle='0.5' coordIndex='0 1 2 -1 3 0 2 -1 1 4 2 -1 5 3 2 -1'>
+        <Coordinate point='9.89 0.047 -1.339 9.968 0.138 -1.261 9.969 -0.114 -1.26 9.89 -0.047 -1.339 9.969 0.138 -1.26 9.968 -0.114 -1.261'/>
+      </IndexedFaceSet>
+    </Shape>
+    <Shape>
+      <Appearance>
+        <Material USE='PIN-01'/>
+      </Appearance>
+      <IndexedFaceSet creaseAngle='0.5' coordIndex='0 1 2 -1 0 2 3 -1 0 4 1 -1 0 3 5 -1'>
+        <Coordinate point='9.717 -0.114 -1.26 9.717 0.138 -1.261 9.795 0.047 -1.339 9.795 -0.047 -1.339 9.717 0.138 -1.26 9.717 -0.114 -1.261'/>
+      </IndexedFaceSet>
+    </Shape>
+    <Shape>
+      <Appearance>
+        <Material USE='PIN-01'/>
+      </Appearance>
+      <IndexedFaceSet creaseAngle='0.5' coordIndex='0 1 2 -1 3 0 2 -1'>
+        <Coordinate point='9.89 -0.047 -1.339 9.968 -0.114 -1.261 9.717 -0.114 -1.261 9.795 -0.047 -1.339'/>
+      </IndexedFaceSet>
+    </Shape>
+    <Shape>
+      <Appearance>
+        <Material USE='PIN-01'/>
+      </Appearance>
+      <IndexedFaceSet creaseAngle='0.5' coordIndex='0 1 2 -1 3 0 2 -1 4 3 5 -1 3 2 5 -1'>
+        <Coordinate point='9.717 0.244 -0.591 9.969 0.244 -0.591 9.969 0.138 -1.26 9.717 0.138 -1.26 9.717 0.138 -1.261 9.968 0.138 -1.261'/>
+      </IndexedFaceSet>
+    </Shape>
+    <Shape>
+      <Appearance>
+        <Material USE='PIN-01'/>
+      </Appearance>
+      <IndexedFaceSet creaseAngle='0.5' coordIndex='0 1 2 -1 0 3 1 -1 4 0 2 -1 5 0 4 -1 6 4 7 -1 6 5 4 -1'>
+        <Coordinate point='9.969 0.126 -0.354 9.969 -0.126 2.48 9.969 -0.126 -0.354 9.969 0.126 2.48 9.969 -0.008 -0.591 9.969 0.244 -0.591 9.969 0.138 -1.26 9.969 -0.114 -1.26'/>
+      </IndexedFaceSet>
+    </Shape>
+    <Shape>
+      <Appearance>
+        <Material USE='PIN-01'/>
+      </Appearance>
+      <IndexedFaceSet creaseAngle='0.5' coordIndex='0 1 2 -1 0 2 3 -1 4 0 5 -1 0 3 5 -1'>
+        <Coordinate point='9.717 -0.114 -1.26 9.717 -0.114 -1.261 9.968 -0.114 -1.261 9.969 -0.114 -1.26 9.717 -0.008 -0.591 9.969 -0.008 -0.591'/>
+      </IndexedFaceSet>
+    </Shape>
+    <Shape>
+      <Appearance>
+        <Material USE='PIN-01'/>
+      </Appearance>
+      <IndexedFaceSet creaseAngle='0.5' coordIndex='0 1 2 -1 1 3 2 -1 0 2 4 -1 4 2 5 -1 6 4 7 -1 4 5 7 -1'>
+        <Coordinate point='9.717 -0.126 -0.354 9.717 -0.126 2.48 9.717 0.126 -0.354 9.717 0.126 2.48 9.717 -0.008 -0.591 9.717 0.244 -0.591 9.717 -0.114 -1.26 9.717 0.138 -1.26'/>
+      </IndexedFaceSet>
+    </Shape>
+    <Shape>
+      <Appearance>
+        <Material USE='PIN-01'/>
+      </Appearance>
+      <IndexedFaceSet creaseAngle='0.5' coordIndex='0 1 2 -1 3 0 2 -1'>
+        <Coordinate point='9.717 0.126 -0.354 9.969 0.126 -0.354 9.969 0.244 -0.591 9.717 0.244 -0.591'/>
+      </IndexedFaceSet>
+    </Shape>
+    <Shape>
+      <Appearance>
+        <Material USE='PIN-01'/>
+      </Appearance>
+      <IndexedFaceSet creaseAngle='0.5' coordIndex='0 1 2 -1 3 0 2 -1'>
+        <Coordinate point='9.717 -0.008 -0.591 9.969 -0.008 -0.591 9.969 -0.126 -0.354 9.717 -0.126 -0.354'/>
+      </IndexedFaceSet>
+    </Shape>
+    <Shape>
+      <Appearance>
+        <Material USE='PIN-01'/>
+      </Appearance>
+      <IndexedFaceSet creaseAngle='0.5' coordIndex='0 1 2 -1 2 1 3 -1'>
+        <Coordinate point='9.717 -0.126 -0.354 9.969 -0.126 -0.354 9.717 -0.126 2.48 9.969 -0.126 2.48'/>
+      </IndexedFaceSet>
+    </Shape>
+    <Shape>
+      <Appearance>
+        <Material USE='PIN-01'/>
+      </Appearance>
+      <IndexedFaceSet creaseAngle='0.5' coordIndex='0 1 2 -1 3 0 2 -1'>
+        <Coordinate point='9.89 -0.047 2.559 9.969 -0.126 2.48 9.969 0.126 2.48 9.89 0.047 2.559'/>
+      </IndexedFaceSet>
+    </Shape>
+    <Shape>
+      <Appearance>
+        <Material USE='PIN-01'/>
+      </Appearance>
+      <IndexedFaceSet creaseAngle='0.5' coordIndex='0 1 2 -1 3 0 2 -1'>
+        <Coordinate point='9.717 0.126 2.48 9.969 0.126 2.48 9.969 0.126 -0.354 9.717 0.126 -0.354'/>
+      </IndexedFaceSet>
+    </Shape>
+    <Shape>
+      <Appearance>
+        <Material USE='PIN-01'/>
+      </Appearance>
+      <IndexedFaceSet creaseAngle='0.5' coordIndex='0 1 2 -1 0 2 3 -1'>
+        <Coordinate point='9.717 0.126 2.48 9.717 -0.126 2.48 9.795 -0.047 2.559 9.795 0.047 2.559'/>
+      </IndexedFaceSet>
+    </Shape>
+    <Shape>
+      <Appearance>
+        <Material USE='PIN-01'/>
+      </Appearance>
+      <IndexedFaceSet creaseAngle='0.5' coordIndex='0 1 2 -1 2 1 3 -1'>
+        <Coordinate point='9.969 -0.126 2.48 9.89 -0.047 2.559 9.717 -0.126 2.48 9.795 -0.047 2.559'/>
+      </IndexedFaceSet>
+    </Shape>
+    <Shape>
+      <Appearance>
+        <Material USE='PIN-01'/>
+      </Appearance>
+      <IndexedFaceSet creaseAngle='0.5' coordIndex='0 1 2 -1 1 3 2 -1'>
+        <Coordinate point='9.795 0.047 2.559 9.795 -0.047 2.559 9.89 0.047 2.559 9.89 -0.047 2.559'/>
+      </IndexedFaceSet>
+    </Shape>
+    <Shape>
+      <Appearance>
+        <Material USE='PIN-01'/>
+      </Appearance>
+      <IndexedFaceSet creaseAngle='0.5' coordIndex='0 1 2 -1 3 0 2 -1'>
+        <Coordinate point='9.89 0.047 2.559 9.969 0.126 2.48 9.717 0.126 2.48 9.795 0.047 2.559'/>
+      </IndexedFaceSet>
+    </Shape>
+    <Shape>
+      <Appearance>
+        <Material USE='PIN-01'/>
+      </Appearance>
+      <IndexedFaceSet creaseAngle='0.5' coordIndex='0 1 2 -1 1 3 2 -1'>
+        <Coordinate point='0.937 -0.047 -1.339 0.937 0.047 -1.339 1.031 -0.047 -1.339 1.031 0.047 -1.339'/>
+      </IndexedFaceSet>
+    </Shape>
+    <Shape>
+      <Appearance>
+        <Material USE='PIN-01'/>
+      </Appearance>
+      <IndexedFaceSet creaseAngle='0.5' coordIndex='0 1 2 -1 3 0 2 -1'>
+        <Coordinate point='1.031 -0.047 -1.339 1.11 -0.126 -1.26 0.858 -0.126 -1.26 0.937 -0.047 -1.339'/>
+      </IndexedFaceSet>
+    </Shape>
+    <Shape>
+      <Appearance>
+        <Material USE='PIN-01'/>
+      </Appearance>
+      <IndexedFaceSet creaseAngle='0.5' coordIndex='0 1 2 -1 2 1 3 -1'>
+        <Coordinate point='1.031 0.047 -1.339 1.11 0.126 -1.26 1.031 -0.047 -1.339 1.11 -0.126 -1.26'/>
+      </IndexedFaceSet>
+    </Shape>
+    <Shape>
+      <Appearance>
+        <Material USE='PIN-01'/>
+      </Appearance>
+      <IndexedFaceSet creaseAngle='0.5' coordIndex='0 1 2 -1 3 1 0 -1'>
+        <Coordinate point='0.937 -0.047 -1.339 0.858 0.126 -1.26 0.937 0.047 -1.339 0.858 -0.126 -1.26'/>
+      </IndexedFaceSet>
+    </Shape>
+    <Shape>
+      <Appearance>
+        <Material USE='PIN-01'/>
+      </Appearance>
+      <IndexedFaceSet creaseAngle='0.5' coordIndex='0 1 2 -1 0 2 3 -1'>
+        <Coordinate point='0.858 0.126 -1.26 1.11 0.126 -1.26 1.031 0.047 -1.339 0.937 0.047 -1.339'/>
+      </IndexedFaceSet>
+    </Shape>
+    <Shape>
+      <Appearance>
+        <Material USE='PIN-01'/>
+      </Appearance>
+      <IndexedFaceSet creaseAngle='0.5' coordIndex='0 1 2 -1 3 0 2 -1'>
+        <Coordinate point='0.858 -0.126 -1.26 1.11 -0.126 -1.26 1.11 -0.126 2.48 0.858 -0.126 2.48'/>
+      </IndexedFaceSet>
+    </Shape>
+    <Shape>
+      <Appearance>
+        <Material USE='PIN-01'/>
+      </Appearance>
+      <IndexedFaceSet creaseAngle='0.5' coordIndex='0 1 2 -1 0 3 1 -1'>
+        <Coordinate point='1.11 0.126 -1.26 1.11 -0.126 2.48 1.11 -0.126 -1.26 1.11 0.126 2.48'/>
+      </IndexedFaceSet>
+    </Shape>
+    <Shape>
+      <Appearance>
+        <Material USE='PIN-01'/>
+      </Appearance>
+      <IndexedFaceSet creaseAngle='0.5' coordIndex='0 1 2 -1 1 3 2 -1'>
+        <Coordinate point='0.858 -0.126 -1.26 0.858 -0.126 2.48 0.858 0.126 -1.26 0.858 0.126 2.48'/>
+      </IndexedFaceSet>
+    </Shape>
+    <Shape>
+      <Appearance>
+        <Material USE='PIN-01'/>
+      </Appearance>
+      <IndexedFaceSet creaseAngle='0.5' coordIndex='0 1 2 -1 2 1 3 -1'>
+        <Coordinate point='0.858 0.126 2.48 1.11 0.126 2.48 0.858 0.126 -1.26 1.11 0.126 -1.26'/>
+      </IndexedFaceSet>
+    </Shape>
+    <Shape>
+      <Appearance>
+        <Material USE='PIN-01'/>
+      </Appearance>
+      <IndexedFaceSet creaseAngle='0.5' coordIndex='0 1 2 -1 2 1 3 -1'>
+        <Coordinate point='1.11 -0.126 2.48 1.031 -0.047 2.559 0.858 -0.126 2.48 0.937 -0.047 2.559'/>
+      </IndexedFaceSet>
+    </Shape>
+    <Shape>
+      <Appearance>
+        <Material USE='PIN-01'/>
+      </Appearance>
+      <IndexedFaceSet creaseAngle='0.5' coordIndex='0 1 2 -1 3 0 2 -1'>
+        <Coordinate point='1.031 -0.047 2.559 1.11 -0.126 2.48 1.11 0.126 2.48 1.031 0.047 2.559'/>
+      </IndexedFaceSet>
+    </Shape>
+    <Shape>
+      <Appearance>
+        <Material USE='PIN-01'/>
+      </Appearance>
+      <IndexedFaceSet creaseAngle='0.5' coordIndex='0 1 2 -1 0 2 3 -1'>
+        <Coordinate point='0.858 0.126 2.48 0.858 -0.126 2.48 0.937 -0.047 2.559 0.937 0.047 2.559'/>
+      </IndexedFaceSet>
+    </Shape>
+    <Shape>
+      <Appearance>
+        <Material USE='PIN-01'/>
+      </Appearance>
+      <IndexedFaceSet creaseAngle='0.5' coordIndex='0 1 2 -1 3 0 2 -1'>
+        <Coordinate point='1.031 0.047 2.559 1.11 0.126 2.48 0.858 0.126 2.48 0.937 0.047 2.559'/>
+      </IndexedFaceSet>
+    </Shape>
+    <Shape>
+      <Appearance>
+        <Material USE='PIN-01'/>
+      </Appearance>
+      <IndexedFaceSet creaseAngle='0.5' coordIndex='0 1 2 -1 3 0 2 -1'>
+        <Coordinate point='0.937 -0.047 2.559 1.031 -0.047 2.559 1.031 0.047 2.559 0.937 0.047 2.559'/>
+      </IndexedFaceSet>
+    </Shape>
+    <Shape>
+      <Appearance>
+        <Material USE='PIN-01'/>
+      </Appearance>
+      <IndexedFaceSet creaseAngle='0.5' coordIndex='0 1 2 -1 1 3 2 -1'>
+        <Coordinate point='1.921 -0.047 -1.339 1.921 0.047 -1.339 2.016 -0.047 -1.339 2.016 0.047 -1.339'/>
+      </IndexedFaceSet>
+    </Shape>
+    <Shape>
+      <Appearance>
+        <Material USE='PIN-01'/>
+      </Appearance>
+      <IndexedFaceSet creaseAngle='0.5' coordIndex='0 1 2 -1 3 0 2 -1'>
+        <Coordinate point='2.016 -0.047 -1.339 2.094 -0.126 -1.26 1.843 -0.126 -1.26 1.921 -0.047 -1.339'/>
+      </IndexedFaceSet>
+    </Shape>
+    <Shape>
+      <Appearance>
+        <Material USE='PIN-01'/>
+      </Appearance>
+      <IndexedFaceSet creaseAngle='0.5' coordIndex='0 1 2 -1 2 1 3 -1'>
+        <Coordinate point='2.016 0.047 -1.339 2.094 0.126 -1.26 2.016 -0.047 -1.339 2.094 -0.126 -1.26'/>
+      </IndexedFaceSet>
+    </Shape>
+    <Shape>
+      <Appearance>
+        <Material USE='PIN-01'/>
+      </Appearance>
+      <IndexedFaceSet creaseAngle='0.5' coordIndex='0 1 2 -1 3 1 0 -1'>
+        <Coordinate point='1.921 -0.047 -1.339 1.843 0.126 -1.26 1.921 0.047 -1.339 1.843 -0.126 -1.26'/>
+      </IndexedFaceSet>
+    </Shape>
+    <Shape>
+      <Appearance>
+        <Material USE='PIN-01'/>
+      </Appearance>
+      <IndexedFaceSet creaseAngle='0.5' coordIndex='0 1 2 -1 0 2 3 -1'>
+        <Coordinate point='1.843 0.126 -1.26 2.094 0.126 -1.26 2.016 0.047 -1.339 1.921 0.047 -1.339'/>
+      </IndexedFaceSet>
+    </Shape>
+    <Shape>
+      <Appearance>
+        <Material USE='PIN-01'/>
+      </Appearance>
+      <IndexedFaceSet creaseAngle='0.5' coordIndex='0 1 2 -1 3 0 2 -1'>
+        <Coordinate point='1.843 -0.126 -1.26 2.094 -0.126 -1.26 2.094 -0.126 2.48 1.843 -0.126 2.48'/>
+      </IndexedFaceSet>
+    </Shape>
+    <Shape>
+      <Appearance>
+        <Material USE='PIN-01'/>
+      </Appearance>
+      <IndexedFaceSet creaseAngle='0.5' coordIndex='0 1 2 -1 0 3 1 -1'>
+        <Coordinate point='2.094 0.126 -1.26 2.094 -0.126 2.48 2.094 -0.126 -1.26 2.094 0.126 2.48'/>
+      </IndexedFaceSet>
+    </Shape>
+    <Shape>
+      <Appearance>
+        <Material USE='PIN-01'/>
+      </Appearance>
+      <IndexedFaceSet creaseAngle='0.5' coordIndex='0 1 2 -1 1 3 2 -1'>
+        <Coordinate point='1.843 -0.126 -1.26 1.843 -0.126 2.48 1.843 0.126 -1.26 1.843 0.126 2.48'/>
+      </IndexedFaceSet>
+    </Shape>
+    <Shape>
+      <Appearance>
+        <Material USE='PIN-01'/>
+      </Appearance>
+      <IndexedFaceSet creaseAngle='0.5' coordIndex='0 1 2 -1 2 1 3 -1'>
+        <Coordinate point='1.843 0.126 2.48 2.094 0.126 2.48 1.843 0.126 -1.26 2.094 0.126 -1.26'/>
+      </IndexedFaceSet>
+    </Shape>
+    <Shape>
+      <Appearance>
+        <Material USE='PIN-01'/>
+      </Appearance>
+      <IndexedFaceSet creaseAngle='0.5' coordIndex='0 1 2 -1 2 1 3 -1'>
+        <Coordinate point='2.094 -0.126 2.48 2.016 -0.047 2.559 1.843 -0.126 2.48 1.921 -0.047 2.559'/>
+      </IndexedFaceSet>
+    </Shape>
+    <Shape>
+      <Appearance>
+        <Material USE='PIN-01'/>
+      </Appearance>
+      <IndexedFaceSet creaseAngle='0.5' coordIndex='0 1 2 -1 3 0 2 -1'>
+        <Coordinate point='2.016 -0.047 2.559 2.094 -0.126 2.48 2.094 0.126 2.48 2.016 0.047 2.559'/>
+      </IndexedFaceSet>
+    </Shape>
+    <Shape>
+      <Appearance>
+        <Material USE='PIN-01'/>
+      </Appearance>
+      <IndexedFaceSet creaseAngle='0.5' coordIndex='0 1 2 -1 0 2 3 -1'>
+        <Coordinate point='1.843 0.126 2.48 1.843 -0.126 2.48 1.921 -0.047 2.559 1.921 0.047 2.559'/>
+      </IndexedFaceSet>
+    </Shape>
+    <Shape>
+      <Appearance>
+        <Material USE='PIN-01'/>
+      </Appearance>
+      <IndexedFaceSet creaseAngle='0.5' coordIndex='0 1 2 -1 3 0 2 -1'>
+        <Coordinate point='2.016 0.047 2.559 2.094 0.126 2.48 1.843 0.126 2.48 1.921 0.047 2.559'/>
+      </IndexedFaceSet>
+    </Shape>
+    <Shape>
+      <Appearance>
+        <Material USE='PIN-01'/>
+      </Appearance>
+      <IndexedFaceSet creaseAngle='0.5' coordIndex='0 1 2 -1 3 0 2 -1'>
+        <Coordinate point='1.921 -0.047 2.559 2.016 -0.047 2.559 2.016 0.047 2.559 1.921 0.047 2.559'/>
+      </IndexedFaceSet>
+    </Shape>
+    <Shape>
+      <Appearance>
+        <Material USE='PIN-01'/>
+      </Appearance>
+      <IndexedFaceSet creaseAngle='0.5' coordIndex='0 1 2 -1 1 3 2 -1'>
+        <Coordinate point='5.858 -0.047 -1.339 5.858 0.047 -1.339 5.953 -0.047 -1.339 5.953 0.047 -1.339'/>
+      </IndexedFaceSet>
+    </Shape>
+    <Shape>
+      <Appearance>
+        <Material USE='PIN-01'/>
+      </Appearance>
+      <IndexedFaceSet creaseAngle='0.5' coordIndex='0 1 2 -1 3 0 2 -1'>
+        <Coordinate point='5.953 -0.047 -1.339 6.031 -0.126 -1.26 5.78 -0.126 -1.26 5.858 -0.047 -1.339'/>
+      </IndexedFaceSet>
+    </Shape>
+    <Shape>
+      <Appearance>
+        <Material USE='PIN-01'/>
+      </Appearance>
+      <IndexedFaceSet creaseAngle='0.5' coordIndex='0 1 2 -1 3 0 2 -1'>
+        <Coordinate point='5.953 0.047 -1.339 6.031 0.126 -1.26 6.031 -0.126 -1.26 5.953 -0.047 -1.339'/>
+      </IndexedFaceSet>
+    </Shape>
+    <Shape>
+      <Appearance>
+        <Material USE='PIN-01'/>
+      </Appearance>
+      <IndexedFaceSet creaseAngle='0.5' coordIndex='0 1 2 -1 3 1 0 -1'>
+        <Coordinate point='5.858 -0.047 -1.339 5.78 0.126 -1.26 5.858 0.047 -1.339 5.78 -0.126 -1.26'/>
+      </IndexedFaceSet>
+    </Shape>
+    <Shape>
+      <Appearance>
+        <Material USE='PIN-01'/>
+      </Appearance>
+      <IndexedFaceSet creaseAngle='0.5' coordIndex='0 1 2 -1 0 2 3 -1'>
+        <Coordinate point='5.78 0.126 -1.26 6.031 0.126 -1.26 5.953 0.047 -1.339 5.858 0.047 -1.339'/>
+      </IndexedFaceSet>
+    </Shape>
+    <Shape>
+      <Appearance>
+        <Material USE='PIN-01'/>
+      </Appearance>
+      <IndexedFaceSet creaseAngle='0.5' coordIndex='0 1 2 -1 3 0 2 -1'>
+        <Coordinate point='5.78 -0.126 -1.26 6.031 -0.126 -1.26 6.031 -0.126 2.48 5.78 -0.126 2.48'/>
+      </IndexedFaceSet>
+    </Shape>
+    <Shape>
+      <Appearance>
+        <Material USE='PIN-01'/>
+      </Appearance>
+      <IndexedFaceSet creaseAngle='0.5' coordIndex='0 1 2 -1 0 3 1 -1'>
+        <Coordinate point='6.031 0.126 -1.26 6.031 -0.126 2.48 6.031 -0.126 -1.26 6.031 0.126 2.48'/>
+      </IndexedFaceSet>
+    </Shape>
+    <Shape>
+      <Appearance>
+        <Material USE='PIN-01'/>
+      </Appearance>
+      <IndexedFaceSet creaseAngle='0.5' coordIndex='0 1 2 -1 1 3 2 -1'>
+        <Coordinate point='5.78 -0.126 -1.26 5.78 -0.126 2.48 5.78 0.126 -1.26 5.78 0.126 2.48'/>
+      </IndexedFaceSet>
+    </Shape>
+    <Shape>
+      <Appearance>
+        <Material USE='PIN-01'/>
+      </Appearance>
+      <IndexedFaceSet creaseAngle='0.5' coordIndex='0 1 2 -1 2 1 3 -1'>
+        <Coordinate point='5.78 0.126 2.48 6.031 0.126 2.48 5.78 0.126 -1.26 6.031 0.126 -1.26'/>
+      </IndexedFaceSet>
+    </Shape>
+    <Shape>
+      <Appearance>
+        <Material USE='PIN-01'/>
+      </Appearance>
+      <IndexedFaceSet creaseAngle='0.5' coordIndex='0 1 2 -1 2 1 3 -1'>
+        <Coordinate point='6.031 -0.126 2.48 5.953 -0.047 2.559 5.78 -0.126 2.48 5.858 -0.047 2.559'/>
+      </IndexedFaceSet>
+    </Shape>
+    <Shape>
+      <Appearance>
+        <Material USE='PIN-01'/>
+      </Appearance>
+      <IndexedFaceSet creaseAngle='0.5' coordIndex='0 1 2 -1 3 0 2 -1'>
+        <Coordinate point='5.953 -0.047 2.559 6.031 -0.126 2.48 6.031 0.126 2.48 5.953 0.047 2.559'/>
+      </IndexedFaceSet>
+    </Shape>
+    <Shape>
+      <Appearance>
+        <Material USE='PIN-01'/>
+      </Appearance>
+      <IndexedFaceSet creaseAngle='0.5' coordIndex='0 1 2 -1 0 2 3 -1'>
+        <Coordinate point='5.78 0.126 2.48 5.78 -0.126 2.48 5.858 -0.047 2.559 5.858 0.047 2.559'/>
+      </IndexedFaceSet>
+    </Shape>
+    <Shape>
+      <Appearance>
+        <Material USE='PIN-01'/>
+      </Appearance>
+      <IndexedFaceSet creaseAngle='0.5' coordIndex='0 1 2 -1 3 0 2 -1'>
+        <Coordinate point='5.953 0.047 2.559 6.031 0.126 2.48 5.78 0.126 2.48 5.858 0.047 2.559'/>
+      </IndexedFaceSet>
+    </Shape>
+    <Shape>
+      <Appearance>
+        <Material USE='PIN-01'/>
+      </Appearance>
+      <IndexedFaceSet creaseAngle='0.5' coordIndex='0 1 2 -1 3 0 2 -1'>
+        <Coordinate point='5.858 -0.047 2.559 5.953 -0.047 2.559 5.953 0.047 2.559 5.858 0.047 2.559'/>
+      </IndexedFaceSet>
+    </Shape>
+    <Shape>
+      <Appearance>
+        <Material USE='PIN-01'/>
+      </Appearance>
+      <IndexedFaceSet creaseAngle='0.5' coordIndex='0 1 2 -1 1 3 2 -1'>
+        <Coordinate point='8.811 -0.047 -1.339 8.811 0.047 -1.339 8.906 -0.047 -1.339 8.906 0.047 -1.339'/>
+      </IndexedFaceSet>
+    </Shape>
+    <Shape>
+      <Appearance>
+        <Material USE='PIN-01'/>
+      </Appearance>
+      <IndexedFaceSet creaseAngle='0.5' coordIndex='0 1 2 -1 3 0 2 -1'>
+        <Coordinate point='8.906 -0.047 -1.339 8.984 -0.126 -1.26 8.732 -0.126 -1.26 8.811 -0.047 -1.339'/>
+      </IndexedFaceSet>
+    </Shape>
+    <Shape>
+      <Appearance>
+        <Material USE='PIN-01'/>
+      </Appearance>
+      <IndexedFaceSet creaseAngle='0.5' coordIndex='0 1 2 -1 3 0 2 -1'>
+        <Coordinate point='8.906 0.047 -1.339 8.984 0.126 -1.26 8.984 -0.126 -1.26 8.906 -0.047 -1.339'/>
+      </IndexedFaceSet>
+    </Shape>
+    <Shape>
+      <Appearance>
+        <Material USE='PIN-01'/>
+      </Appearance>
+      <IndexedFaceSet creaseAngle='0.5' coordIndex='0 1 2 -1 3 1 0 -1'>
+        <Coordinate point='8.811 -0.047 -1.339 8.732 0.126 -1.26 8.811 0.047 -1.339 8.732 -0.126 -1.26'/>
+      </IndexedFaceSet>
+    </Shape>
+    <Shape>
+      <Appearance>
+        <Material USE='PIN-01'/>
+      </Appearance>
+      <IndexedFaceSet creaseAngle='0.5' coordIndex='0 1 2 -1 0 2 3 -1'>
+        <Coordinate point='8.732 0.126 -1.26 8.984 0.126 -1.26 8.906 0.047 -1.339 8.811 0.047 -1.339'/>
+      </IndexedFaceSet>
+    </Shape>
+    <Shape>
+      <Appearance>
+        <Material USE='PIN-01'/>
+      </Appearance>
+      <IndexedFaceSet creaseAngle='0.5' coordIndex='0 1 2 -1 3 0 2 -1'>
+        <Coordinate point='8.732 -0.126 -1.26 8.984 -0.126 -1.26 8.984 -0.126 2.48 8.732 -0.126 2.48'/>
+      </IndexedFaceSet>
+    </Shape>
+    <Shape>
+      <Appearance>
+        <Material USE='PIN-01'/>
+      </Appearance>
+      <IndexedFaceSet creaseAngle='0.5' coordIndex='0 1 2 -1 0 3 1 -1'>
+        <Coordinate point='8.984 0.126 -1.26 8.984 -0.126 2.48 8.984 -0.126 -1.26 8.984 0.126 2.48'/>
+      </IndexedFaceSet>
+    </Shape>
+    <Shape>
+      <Appearance>
+        <Material USE='PIN-01'/>
+      </Appearance>
+      <IndexedFaceSet creaseAngle='0.5' coordIndex='0 1 2 -1 1 3 2 -1'>
+        <Coordinate point='8.732 -0.126 -1.26 8.732 -0.126 2.48 8.732 0.126 -1.26 8.732 0.126 2.48'/>
+      </IndexedFaceSet>
+    </Shape>
+    <Shape>
+      <Appearance>
+        <Material USE='PIN-01'/>
+      </Appearance>
+      <IndexedFaceSet creaseAngle='0.5' coordIndex='0 1 2 -1 2 1 3 -1'>
+        <Coordinate point='8.732 0.126 2.48 8.984 0.126 2.48 8.732 0.126 -1.26 8.984 0.126 -1.26'/>
+      </IndexedFaceSet>
+    </Shape>
+    <Shape>
+      <Appearance>
+        <Material USE='PIN-01'/>
+      </Appearance>
+      <IndexedFaceSet creaseAngle='0.5' coordIndex='0 1 2 -1 2 1 3 -1'>
+        <Coordinate point='8.984 -0.126 2.48 8.906 -0.047 2.559 8.732 -0.126 2.48 8.811 -0.047 2.559'/>
+      </IndexedFaceSet>
+    </Shape>
+    <Shape>
+      <Appearance>
+        <Material USE='PIN-01'/>
+      </Appearance>
+      <IndexedFaceSet creaseAngle='0.5' coordIndex='0 1 2 -1 3 0 2 -1'>
+        <Coordinate point='8.906 -0.047 2.559 8.984 -0.126 2.48 8.984 0.126 2.48 8.906 0.047 2.559'/>
+      </IndexedFaceSet>
+    </Shape>
+    <Shape>
+      <Appearance>
+        <Material USE='PIN-01'/>
+      </Appearance>
+      <IndexedFaceSet creaseAngle='0.5' coordIndex='0 1 2 -1 0 2 3 -1'>
+        <Coordinate point='8.732 0.126 2.48 8.732 -0.126 2.48 8.811 -0.047 2.559 8.811 0.047 2.559'/>
+      </IndexedFaceSet>
+    </Shape>
+    <Shape>
+      <Appearance>
+        <Material USE='PIN-01'/>
+      </Appearance>
+      <IndexedFaceSet creaseAngle='0.5' coordIndex='0 1 2 -1 3 0 2 -1'>
+        <Coordinate point='8.906 0.047 2.559 8.984 0.126 2.48 8.732 0.126 2.48 8.811 0.047 2.559'/>
+      </IndexedFaceSet>
+    </Shape>
+    <Shape>
+      <Appearance>
+        <Material USE='PIN-01'/>
+      </Appearance>
+      <IndexedFaceSet creaseAngle='0.5' coordIndex='0 1 2 -1 0 2 3 -1'>
+        <Coordinate point='8.811 0.047 2.559 8.811 -0.047 2.559 8.906 -0.047 2.559 8.906 0.047 2.559'/>
+      </IndexedFaceSet>
+    </Shape>
+    <Shape>
+      <Appearance>
+        <Material USE='PIN-01'/>
+      </Appearance>
+      <IndexedFaceSet creaseAngle='0.5' coordIndex='0 1 2 -1 1 3 2 -1'>
+        <Coordinate point='7.827 -0.047 -1.339 7.827 0.047 -1.339 7.921 -0.047 -1.339 7.921 0.047 -1.339'/>
+      </IndexedFaceSet>
+    </Shape>
+    <Shape>
+      <Appearance>
+        <Material USE='PIN-01'/>
+      </Appearance>
+      <IndexedFaceSet creaseAngle='0.5' coordIndex='0 1 2 -1 3 0 2 -1'>
+        <Coordinate point='7.921 -0.047 -1.339 8 -0.126 -1.26 7.748 -0.126 -1.26 7.827 -0.047 -1.339'/>
+      </IndexedFaceSet>
+    </Shape>
+    <Shape>
+      <Appearance>
+        <Material USE='PIN-01'/>
+      </Appearance>
+      <IndexedFaceSet creaseAngle='0.5' coordIndex='0 1 2 -1 3 0 2 -1'>
+        <Coordinate point='7.921 0.047 -1.339 8 0.126 -1.26 8 -0.126 -1.26 7.921 -0.047 -1.339'/>
+      </IndexedFaceSet>
+    </Shape>
+    <Shape>
+      <Appearance>
+        <Material USE='PIN-01'/>
+      </Appearance>
+      <IndexedFaceSet creaseAngle='0.5' coordIndex='0 1 2 -1 3 1 0 -1'>
+        <Coordinate point='7.827 -0.047 -1.339 7.748 0.126 -1.26 7.827 0.047 -1.339 7.748 -0.126 -1.26'/>
+      </IndexedFaceSet>
+    </Shape>
+    <Shape>
+      <Appearance>
+        <Material USE='PIN-01'/>
+      </Appearance>
+      <IndexedFaceSet creaseAngle='0.5' coordIndex='0 1 2 -1 0 2 3 -1'>
+        <Coordinate point='7.748 0.126 -1.26 8 0.126 -1.26 7.921 0.047 -1.339 7.827 0.047 -1.339'/>
+      </IndexedFaceSet>
+    </Shape>
+    <Shape>
+      <Appearance>
+        <Material USE='PIN-01'/>
+      </Appearance>
+      <IndexedFaceSet creaseAngle='0.5' coordIndex='0 1 2 -1 3 0 2 -1'>
+        <Coordinate point='7.748 -0.126 -1.26 8 -0.126 -1.26 8 -0.126 2.48 7.748 -0.126 2.48'/>
+      </IndexedFaceSet>
+    </Shape>
+    <Shape>
+      <Appearance>
+        <Material USE='PIN-01'/>
+      </Appearance>
+      <IndexedFaceSet creaseAngle='0.5' coordIndex='0 1 2 -1 0 3 1 -1'>
+        <Coordinate point='8 0.126 -1.26 8 -0.126 2.48 8 -0.126 -1.26 8 0.126 2.48'/>
+      </IndexedFaceSet>
+    </Shape>
+    <Shape>
+      <Appearance>
+        <Material USE='PIN-01'/>
+      </Appearance>
+      <IndexedFaceSet creaseAngle='0.5' coordIndex='0 1 2 -1 1 3 2 -1'>
+        <Coordinate point='7.748 -0.126 -1.26 7.748 -0.126 2.48 7.748 0.126 -1.26 7.748 0.126 2.48'/>
+      </IndexedFaceSet>
+    </Shape>
+    <Shape>
+      <Appearance>
+        <Material USE='PIN-01'/>
+      </Appearance>
+      <IndexedFaceSet creaseAngle='0.5' coordIndex='0 1 2 -1 2 1 3 -1'>
+        <Coordinate point='7.748 0.126 2.48 8 0.126 2.48 7.748 0.126 -1.26 8 0.126 -1.26'/>
+      </IndexedFaceSet>
+    </Shape>
+    <Shape>
+      <Appearance>
+        <Material USE='PIN-01'/>
+      </Appearance>
+      <IndexedFaceSet creaseAngle='0.5' coordIndex='0 1 2 -1 2 1 3 -1'>
+        <Coordinate point='8 -0.126 2.48 7.921 -0.047 2.559 7.748 -0.126 2.48 7.827 -0.047 2.559'/>
+      </IndexedFaceSet>
+    </Shape>
+    <Shape>
+      <Appearance>
+        <Material USE='PIN-01'/>
+      </Appearance>
+      <IndexedFaceSet creaseAngle='0.5' coordIndex='0 1 2 -1 3 0 2 -1'>
+        <Coordinate point='7.921 -0.047 2.559 8 -0.126 2.48 8 0.126 2.48 7.921 0.047 2.559'/>
+      </IndexedFaceSet>
+    </Shape>
+    <Shape>
+      <Appearance>
+        <Material USE='PIN-01'/>
+      </Appearance>
+      <IndexedFaceSet creaseAngle='0.5' coordIndex='0 1 2 -1 0 2 3 -1'>
+        <Coordinate point='7.748 0.126 2.48 7.748 -0.126 2.48 7.827 -0.047 2.559 7.827 0.047 2.559'/>
+      </IndexedFaceSet>
+    </Shape>
+    <Shape>
+      <Appearance>
+        <Material USE='PIN-01'/>
+      </Appearance>
+      <IndexedFaceSet creaseAngle='0.5' coordIndex='0 1 2 -1 3 0 2 -1'>
+        <Coordinate point='7.921 0.047 2.559 8 0.126 2.48 7.748 0.126 2.48 7.827 0.047 2.559'/>
+      </IndexedFaceSet>
+    </Shape>
+    <Shape>
+      <Appearance>
+        <Material USE='PIN-01'/>
+      </Appearance>
+      <IndexedFaceSet creaseAngle='0.5' coordIndex='0 1 2 -1 0 2 3 -1'>
+        <Coordinate point='7.827 0.047 2.559 7.827 -0.047 2.559 7.921 -0.047 2.559 7.921 0.047 2.559'/>
+      </IndexedFaceSet>
+    </Shape>
+    <Shape>
+      <Appearance>
+        <Material USE='PIN-01'/>
+      </Appearance>
+      <IndexedFaceSet creaseAngle='0.5' coordIndex='0 1 2 -1 1 3 2 -1'>
+        <Coordinate point='4.874 -0.047 -1.339 4.874 0.047 -1.339 4.969 -0.047 -1.339 4.969 0.047 -1.339'/>
+      </IndexedFaceSet>
+    </Shape>
+    <Shape>
+      <Appearance>
+        <Material USE='PIN-01'/>
+      </Appearance>
+      <IndexedFaceSet creaseAngle='0.5' coordIndex='0 1 2 -1 3 0 2 -1'>
+        <Coordinate point='4.969 -0.047 -1.339 5.047 -0.126 -1.26 4.795 -0.126 -1.26 4.874 -0.047 -1.339'/>
+      </IndexedFaceSet>
+    </Shape>
+    <Shape>
+      <Appearance>
+        <Material USE='PIN-01'/>
+      </Appearance>
+      <IndexedFaceSet creaseAngle='0.5' coordIndex='0 1 2 -1 3 0 2 -1'>
+        <Coordinate point='4.969 0.047 -1.339 5.047 0.126 -1.26 5.047 -0.126 -1.26 4.969 -0.047 -1.339'/>
+      </IndexedFaceSet>
+    </Shape>
+    <Shape>
+      <Appearance>
+        <Material USE='PIN-01'/>
+      </Appearance>
+      <IndexedFaceSet creaseAngle='0.5' coordIndex='0 1 2 -1 3 1 0 -1'>
+        <Coordinate point='4.874 -0.047 -1.339 4.795 0.126 -1.26 4.874 0.047 -1.339 4.795 -0.126 -1.26'/>
+      </IndexedFaceSet>
+    </Shape>
+    <Shape>
+      <Appearance>
+        <Material USE='PIN-01'/>
+      </Appearance>
+      <IndexedFaceSet creaseAngle='0.5' coordIndex='0 1 2 -1 0 2 3 -1'>
+        <Coordinate point='4.795 0.126 -1.26 5.047 0.126 -1.26 4.969 0.047 -1.339 4.874 0.047 -1.339'/>
+      </IndexedFaceSet>
+    </Shape>
+    <Shape>
+      <Appearance>
+        <Material USE='PIN-01'/>
+      </Appearance>
+      <IndexedFaceSet creaseAngle='0.5' coordIndex='0 1 2 -1 3 0 2 -1'>
+        <Coordinate point='4.795 -0.126 -1.26 5.047 -0.126 -1.26 5.047 -0.126 2.48 4.795 -0.126 2.48'/>
+      </IndexedFaceSet>
+    </Shape>
+    <Shape>
+      <Appearance>
+        <Material USE='PIN-01'/>
+      </Appearance>
+      <IndexedFaceSet creaseAngle='0.5' coordIndex='0 1 2 -1 0 3 1 -1'>
+        <Coordinate point='5.047 0.126 -1.26 5.047 -0.126 2.48 5.047 -0.126 -1.26 5.047 0.126 2.48'/>
+      </IndexedFaceSet>
+    </Shape>
+    <Shape>
+      <Appearance>
+        <Material USE='PIN-01'/>
+      </Appearance>
+      <IndexedFaceSet creaseAngle='0.5' coordIndex='0 1 2 -1 1 3 2 -1'>
+        <Coordinate point='4.795 -0.126 -1.26 4.795 -0.126 2.48 4.795 0.126 -1.26 4.795 0.126 2.48'/>
+      </IndexedFaceSet>
+    </Shape>
+    <Shape>
+      <Appearance>
+        <Material USE='PIN-01'/>
+      </Appearance>
+      <IndexedFaceSet creaseAngle='0.5' coordIndex='0 1 2 -1 2 1 3 -1'>
+        <Coordinate point='4.795 0.126 2.48 5.047 0.126 2.48 4.795 0.126 -1.26 5.047 0.126 -1.26'/>
+      </IndexedFaceSet>
+    </Shape>
+    <Shape>
+      <Appearance>
+        <Material USE='PIN-01'/>
+      </Appearance>
+      <IndexedFaceSet creaseAngle='0.5' coordIndex='0 1 2 -1 2 1 3 -1'>
+        <Coordinate point='5.047 -0.126 2.48 4.969 -0.047 2.559 4.795 -0.126 2.48 4.874 -0.047 2.559'/>
+      </IndexedFaceSet>
+    </Shape>
+    <Shape>
+      <Appearance>
+        <Material USE='PIN-01'/>
+      </Appearance>
+      <IndexedFaceSet creaseAngle='0.5' coordIndex='0 1 2 -1 3 0 2 -1'>
+        <Coordinate point='4.969 -0.047 2.559 5.047 -0.126 2.48 5.047 0.126 2.48 4.969 0.047 2.559'/>
+      </IndexedFaceSet>
+    </Shape>
+    <Shape>
+      <Appearance>
+        <Material USE='PIN-01'/>
+      </Appearance>
+      <IndexedFaceSet creaseAngle='0.5' coordIndex='0 1 2 -1 0 2 3 -1'>
+        <Coordinate point='4.795 0.126 2.48 4.795 -0.126 2.48 4.874 -0.047 2.559 4.874 0.047 2.559'/>
+      </IndexedFaceSet>
+    </Shape>
+    <Shape>
+      <Appearance>
+        <Material USE='PIN-01'/>
+      </Appearance>
+      <IndexedFaceSet creaseAngle='0.5' coordIndex='0 1 2 -1 3 0 2 -1'>
+        <Coordinate point='4.969 0.047 2.559 5.047 0.126 2.48 4.795 0.126 2.48 4.874 0.047 2.559'/>
+      </IndexedFaceSet>
+    </Shape>
+    <Shape>
+      <Appearance>
+        <Material USE='PIN-01'/>
+      </Appearance>
+      <IndexedFaceSet creaseAngle='0.5' coordIndex='0 1 2 -1 3 0 2 -1'>
+        <Coordinate point='4.874 -0.047 2.559 4.969 -0.047 2.559 4.969 0.047 2.559 4.874 0.047 2.559'/>
+      </IndexedFaceSet>
+    </Shape>
+    <Shape>
+      <Appearance>
+        <Material USE='PIN-01'/>
+      </Appearance>
+      <IndexedFaceSet creaseAngle='0.5' coordIndex='0 1 2 -1 1 3 2 -1'>
+        <Coordinate point='6.843 -0.047 -1.339 6.843 0.047 -1.339 6.937 -0.047 -1.339 6.937 0.047 -1.339'/>
+      </IndexedFaceSet>
+    </Shape>
+    <Shape>
+      <Appearance>
+        <Material USE='PIN-01'/>
+      </Appearance>
+      <IndexedFaceSet creaseAngle='0.5' coordIndex='0 1 2 -1 3 0 2 -1'>
+        <Coordinate point='6.937 -0.047 -1.339 7.016 -0.126 -1.26 6.764 -0.126 -1.26 6.843 -0.047 -1.339'/>
+      </IndexedFaceSet>
+    </Shape>
+    <Shape>
+      <Appearance>
+        <Material USE='PIN-01'/>
+      </Appearance>
+      <IndexedFaceSet creaseAngle='0.5' coordIndex='0 1 2 -1 3 0 2 -1'>
+        <Coordinate point='6.937 0.047 -1.339 7.016 0.126 -1.26 7.016 -0.126 -1.26 6.937 -0.047 -1.339'/>
+      </IndexedFaceSet>
+    </Shape>
+    <Shape>
+      <Appearance>
+        <Material USE='PIN-01'/>
+      </Appearance>
+      <IndexedFaceSet creaseAngle='0.5' coordIndex='0 1 2 -1 3 1 0 -1'>
+        <Coordinate point='6.843 -0.047 -1.339 6.764 0.126 -1.26 6.843 0.047 -1.339 6.764 -0.126 -1.26'/>
+      </IndexedFaceSet>
+    </Shape>
+    <Shape>
+      <Appearance>
+        <Material USE='PIN-01'/>
+      </Appearance>
+      <IndexedFaceSet creaseAngle='0.5' coordIndex='0 1 2 -1 0 2 3 -1'>
+        <Coordinate point='6.764 0.126 -1.26 7.016 0.126 -1.26 6.937 0.047 -1.339 6.843 0.047 -1.339'/>
+      </IndexedFaceSet>
+    </Shape>
+    <Shape>
+      <Appearance>
+        <Material USE='PIN-01'/>
+      </Appearance>
+      <IndexedFaceSet creaseAngle='0.5' coordIndex='0 1 2 -1 3 0 2 -1'>
+        <Coordinate point='6.764 -0.126 -1.26 7.016 -0.126 -1.26 7.016 -0.126 2.48 6.764 -0.126 2.48'/>
+      </IndexedFaceSet>
+    </Shape>
+    <Shape>
+      <Appearance>
+        <Material USE='PIN-01'/>
+      </Appearance>
+      <IndexedFaceSet creaseAngle='0.5' coordIndex='0 1 2 -1 0 3 1 -1'>
+        <Coordinate point='7.016 0.126 -1.26 7.016 -0.126 2.48 7.016 -0.126 -1.26 7.016 0.126 2.48'/>
+      </IndexedFaceSet>
+    </Shape>
+    <Shape>
+      <Appearance>
+        <Material USE='PIN-01'/>
+      </Appearance>
+      <IndexedFaceSet creaseAngle='0.5' coordIndex='0 1 2 -1 1 3 2 -1'>
+        <Coordinate point='6.764 -0.126 -1.26 6.764 -0.126 2.48 6.764 0.126 -1.26 6.764 0.126 2.48'/>
+      </IndexedFaceSet>
+    </Shape>
+    <Shape>
+      <Appearance>
+        <Material USE='PIN-01'/>
+      </Appearance>
+      <IndexedFaceSet creaseAngle='0.5' coordIndex='0 1 2 -1 2 1 3 -1'>
+        <Coordinate point='6.764 0.126 2.48 7.016 0.126 2.48 6.764 0.126 -1.26 7.016 0.126 -1.26'/>
+      </IndexedFaceSet>
+    </Shape>
+    <Shape>
+      <Appearance>
+        <Material USE='PIN-01'/>
+      </Appearance>
+      <IndexedFaceSet creaseAngle='0.5' coordIndex='0 1 2 -1 2 1 3 -1'>
+        <Coordinate point='7.016 -0.126 2.48 6.937 -0.047 2.559 6.764 -0.126 2.48 6.843 -0.047 2.559'/>
+      </IndexedFaceSet>
+    </Shape>
+    <Shape>
+      <Appearance>
+        <Material USE='PIN-01'/>
+      </Appearance>
+      <IndexedFaceSet creaseAngle='0.5' coordIndex='0 1 2 -1 3 0 2 -1'>
+        <Coordinate point='6.937 -0.047 2.559 7.016 -0.126 2.48 7.016 0.126 2.48 6.937 0.047 2.559'/>
+      </IndexedFaceSet>
+    </Shape>
+    <Shape>
+      <Appearance>
+        <Material USE='PIN-01'/>
+      </Appearance>
+      <IndexedFaceSet creaseAngle='0.5' coordIndex='0 1 2 -1 0 2 3 -1'>
+        <Coordinate point='6.764 0.126 2.48 6.764 -0.126 2.48 6.843 -0.047 2.559 6.843 0.047 2.559'/>
+      </IndexedFaceSet>
+    </Shape>
+    <Shape>
+      <Appearance>
+        <Material USE='PIN-01'/>
+      </Appearance>
+      <IndexedFaceSet creaseAngle='0.5' coordIndex='0 1 2 -1 3 0 2 -1'>
+        <Coordinate point='6.937 0.047 2.559 7.016 0.126 2.48 6.764 0.126 2.48 6.843 0.047 2.559'/>
+      </IndexedFaceSet>
+    </Shape>
+    <Shape>
+      <Appearance>
+        <Material USE='PIN-01'/>
+      </Appearance>
+      <IndexedFaceSet creaseAngle='0.5' coordIndex='0 1 2 -1 0 2 3 -1'>
+        <Coordinate point='6.843 0.047 2.559 6.843 -0.047 2.559 6.937 -0.047 2.559 6.937 0.047 2.559'/>
+      </IndexedFaceSet>
+    </Shape>
+    <Shape>
+      <Appearance>
+        <Material USE='PIN-01'/>
+      </Appearance>
+      <IndexedFaceSet creaseAngle='0.5' coordIndex='0 1 2 -1 0 2 3 -1'>
+        <Coordinate point='-0.047 -0.047 -1.339 -0.047 0.047 -1.339 0.047 0.047 -1.339 0.047 -0.047 -1.339'/>
+      </IndexedFaceSet>
+    </Shape>
+    <Shape>
+      <Appearance>
+        <Material USE='PIN-01'/>
+      </Appearance>
+      <IndexedFaceSet creaseAngle='0.5' coordIndex='0 1 2 -1 0 2 3 -1'>
+        <Coordinate point='-0.125 0.138 -1.261 0.125 0.138 -1.261 0.047 0.047 -1.339 -0.047 0.047 -1.339'/>
+      </IndexedFaceSet>
+    </Shape>
+    <Shape>
+      <Appearance>
+        <Material USE='PIN-01'/>
+      </Appearance>
+      <IndexedFaceSet creaseAngle='0.5' coordIndex='0 1 2 -1 3 0 2 -1 1 4 2 -1 5 3 2 -1'>
+        <Coordinate point='0.047 0.047 -1.339 0.125 0.138 -1.261 0.126 -0.114 -1.26 0.047 -0.047 -1.339 0.126 0.138 -1.26 0.125 -0.114 -1.261'/>
+      </IndexedFaceSet>
+    </Shape>
+    <Shape>
+      <Appearance>
+        <Material USE='PIN-01'/>
+      </Appearance>
+      <IndexedFaceSet creaseAngle='0.5' coordIndex='0 1 2 -1 0 2 3 -1 0 4 1 -1 0 3 5 -1'>
+        <Coordinate point='-0.126 -0.114 -1.26 -0.125 0.138 -1.261 -0.047 0.047 -1.339 -0.047 -0.047 -1.339 -0.126 0.138 -1.26 -0.125 -0.114 -1.261'/>
+      </IndexedFaceSet>
+    </Shape>
+    <Shape>
+      <Appearance>
+        <Material USE='PIN-01'/>
+      </Appearance>
+      <IndexedFaceSet creaseAngle='0.5' coordIndex='0 1 2 -1 3 0 2 -1'>
+        <Coordinate point='0.047 -0.047 -1.339 0.125 -0.114 -1.261 -0.125 -0.114 -1.261 -0.047 -0.047 -1.339'/>
+      </IndexedFaceSet>
+    </Shape>
+    <Shape>
+      <Appearance>
+        <Material USE='PIN-01'/>
+      </Appearance>
+      <IndexedFaceSet creaseAngle='0.5' coordIndex='0 1 2 -1 3 0 2 -1 4 3 5 -1 3 2 5 -1'>
+        <Coordinate point='-0.126 0.244 -0.591 0.126 0.244 -0.591 0.126 0.138 -1.26 -0.126 0.138 -1.26 -0.125 0.138 -1.261 0.125 0.138 -1.261'/>
+      </IndexedFaceSet>
+    </Shape>
+    <Shape>
+      <Appearance>
+        <Material USE='PIN-01'/>
+      </Appearance>
+      <IndexedFaceSet creaseAngle='0.5' coordIndex='0 1 2 -1 0 3 1 -1 4 0 2 -1 5 0 4 -1 6 4 7 -1 6 5 4 -1'>
+        <Coordinate point='0.126 0.126 -0.354 0.126 -0.126 2.48 0.126 -0.126 -0.354 0.126 0.126 2.48 0.126 -0.008 -0.591 0.126 0.244 -0.591 0.126 0.138 -1.26 0.126 -0.114 -1.26'/>
+      </IndexedFaceSet>
+    </Shape>
+    <Shape>
+      <Appearance>
+        <Material USE='PIN-01'/>
+      </Appearance>
+      <IndexedFaceSet creaseAngle='0.5' coordIndex='0 1 2 -1 0 2 3 -1 4 0 5 -1 0 3 5 -1'>
+        <Coordinate point='-0.126 -0.114 -1.26 -0.125 -0.114 -1.261 0.125 -0.114 -1.261 0.126 -0.114 -1.26 -0.126 -0.008 -0.591 0.126 -0.008 -0.591'/>
+      </IndexedFaceSet>
+    </Shape>
+    <Shape>
+      <Appearance>
+        <Material USE='PIN-01'/>
+      </Appearance>
+      <IndexedFaceSet creaseAngle='0.5' coordIndex='0 1 2 -1 1 3 2 -1 0 2 4 -1 4 2 5 -1 6 4 7 -1 4 5 7 -1'>
+        <Coordinate point='-0.126 -0.126 -0.354 -0.126 -0.126 2.48 -0.126 0.126 -0.354 -0.126 0.126 2.48 -0.126 -0.008 -0.591 -0.126 0.244 -0.591 -0.126 -0.114 -1.26 -0.126 0.138 -1.26'/>
+      </IndexedFaceSet>
+    </Shape>
+    <Shape>
+      <Appearance>
+        <Material USE='PIN-01'/>
+      </Appearance>
+      <IndexedFaceSet creaseAngle='0.5' coordIndex='0 1 2 -1 2 1 3 -1'>
+        <Coordinate point='-0.126 0.126 -0.354 0.126 0.126 -0.354 -0.126 0.244 -0.591 0.126 0.244 -0.591'/>
+      </IndexedFaceSet>
+    </Shape>
+    <Shape>
+      <Appearance>
+        <Material USE='PIN-01'/>
+      </Appearance>
+      <IndexedFaceSet creaseAngle='0.5' coordIndex='0 1 2 -1 2 1 3 -1'>
+        <Coordinate point='-0.126 -0.008 -0.591 0.126 -0.008 -0.591 -0.126 -0.126 -0.354 0.126 -0.126 -0.354'/>
+      </IndexedFaceSet>
+    </Shape>
+    <Shape>
+      <Appearance>
+        <Material USE='PIN-01'/>
+      </Appearance>
+      <IndexedFaceSet creaseAngle='0.5' coordIndex='0 1 2 -1 2 1 3 -1'>
+        <Coordinate point='-0.126 -0.126 -0.354 0.126 -0.126 -0.354 -0.126 -0.126 2.48 0.126 -0.126 2.48'/>
+      </IndexedFaceSet>
+    </Shape>
+    <Shape>
+      <Appearance>
+        <Material USE='PIN-01'/>
+      </Appearance>
+      <IndexedFaceSet creaseAngle='0.5' coordIndex='0 1 2 -1 3 0 2 -1'>
+        <Coordinate point='0.047 -0.047 2.559 0.126 -0.126 2.48 0.126 0.126 2.48 0.047 0.047 2.559'/>
+      </IndexedFaceSet>
+    </Shape>
+    <Shape>
+      <Appearance>
+        <Material USE='PIN-01'/>
+      </Appearance>
+      <IndexedFaceSet creaseAngle='0.5' coordIndex='0 1 2 -1 3 0 2 -1'>
+        <Coordinate point='-0.126 0.126 2.48 0.126 0.126 2.48 0.126 0.126 -0.354 -0.126 0.126 -0.354'/>
+      </IndexedFaceSet>
+    </Shape>
+    <Shape>
+      <Appearance>
+        <Material USE='PIN-01'/>
+      </Appearance>
+      <IndexedFaceSet creaseAngle='0.5' coordIndex='0 1 2 -1 0 2 3 -1'>
+        <Coordinate point='-0.126 0.126 2.48 -0.126 -0.126 2.48 -0.047 -0.047 2.559 -0.047 0.047 2.559'/>
+      </IndexedFaceSet>
+    </Shape>
+    <Shape>
+      <Appearance>
+        <Material USE='PIN-01'/>
+      </Appearance>
+      <IndexedFaceSet creaseAngle='0.5' coordIndex='0 1 2 -1 2 1 3 -1'>
+        <Coordinate point='0.126 -0.126 2.48 0.047 -0.047 2.559 -0.126 -0.126 2.48 -0.047 -0.047 2.559'/>
+      </IndexedFaceSet>
+    </Shape>
+    <Shape>
+      <Appearance>
+        <Material USE='PIN-01'/>
+      </Appearance>
+      <IndexedFaceSet creaseAngle='0.5' coordIndex='0 1 2 -1 1 3 2 -1'>
+        <Coordinate point='-0.047 0.047 2.559 -0.047 -0.047 2.559 0.047 0.047 2.559 0.047 -0.047 2.559'/>
+      </IndexedFaceSet>
+    </Shape>
+    <Shape>
+      <Appearance>
+        <Material USE='PIN-01'/>
+      </Appearance>
+      <IndexedFaceSet creaseAngle='0.5' coordIndex='0 1 2 -1 3 0 2 -1'>
+        <Coordinate point='0.047 0.047 2.559 0.126 0.126 2.48 -0.126 0.126 2.48 -0.047 0.047 2.559'/>
+      </IndexedFaceSet>
+    </Shape>
+  </Scene>
+</X3D>
